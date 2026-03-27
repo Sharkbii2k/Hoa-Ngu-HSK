@@ -1,0 +1,444 @@
+{
+  "level": "HSKK",
+  "premium_locked": true,
+  "typing_practice": [
+    {
+      "hanzi": "请介绍一下你自己。",
+      "pinyin": "Qǐng jièshào yíxià nǐ zìjǐ.",
+      "meaning": "Hãy giới thiệu về bản thân.",
+      "example": "我会认真学习“请介绍一下你自己。”。",
+      "examplePinyin": "Wǒ huì rènzhēn xuéxí \"Qǐng jièshào yíxià nǐ zìjǐ.\".",
+      "exampleMeaning": "Ví dụ ghi nhớ: Hãy giới thiệu về bản thân.",
+      "synonyms": [],
+      "audioText": "请介绍一下你自己。"
+    },
+    {
+      "hanzi": "你为什么学习汉语？",
+      "pinyin": "Nǐ wèishénme xuéxí Hànyǔ?",
+      "meaning": "Vì sao bạn học tiếng Trung?",
+      "example": "我会认真学习“你为什么学习汉语？”。",
+      "examplePinyin": "Wǒ huì rènzhēn xuéxí \"Nǐ wèishénme xuéxí Hànyǔ?\".",
+      "exampleMeaning": "Ví dụ ghi nhớ: Vì sao bạn học tiếng Trung?",
+      "synonyms": [],
+      "audioText": "你为什么学习汉语？"
+    },
+    {
+      "hanzi": "你平时怎么练习口语？",
+      "pinyin": "Nǐ píngshí zěnme liànxí kǒuyǔ?",
+      "meaning": "Bạn luyện khẩu ngữ thế nào?",
+      "example": "我会认真学习“你平时怎么练习口语？”。",
+      "examplePinyin": "Wǒ huì rènzhēn xuéxí \"Nǐ píngshí zěnme liànxí kǒuyǔ?\".",
+      "exampleMeaning": "Ví dụ ghi nhớ: Bạn luyện khẩu ngữ thế nào?",
+      "synonyms": [],
+      "audioText": "你平时怎么练习口语？"
+    },
+    {
+      "hanzi": "谈谈你最喜欢的一位老师。",
+      "pinyin": "Tántan nǐ zuì xǐhuān de yí wèi lǎoshī.",
+      "meaning": "Hãy nói về một giáo viên bạn thích nhất.",
+      "example": "我会认真学习“谈谈你最喜欢的一位老师。”。",
+      "examplePinyin": "Wǒ huì rènzhēn xuéxí \"Tántan nǐ zuì xǐhuān de yí wèi lǎoshī.\".",
+      "exampleMeaning": "Ví dụ ghi nhớ: Hãy nói về một giáo viên bạn thích nhất.",
+      "synonyms": [],
+      "audioText": "谈谈你最喜欢的一位老师。"
+    },
+    {
+      "hanzi": "描述一下你的家乡。",
+      "pinyin": "Miáoshù yíxià nǐ de jiāxiāng.",
+      "meaning": "Hãy miêu tả quê hương của bạn.",
+      "example": "我会认真学习“描述一下你的家乡。”。",
+      "examplePinyin": "Wǒ huì rènzhēn xuéxí \"Miáoshù yíxià nǐ de jiāxiāng.\".",
+      "exampleMeaning": "Ví dụ ghi nhớ: Hãy miêu tả quê hương của bạn.",
+      "synonyms": [],
+      "audioText": "描述一下你的家乡。"
+    },
+    {
+      "hanzi": "如果你去中国留学，你最担心什么？",
+      "pinyin": "Rúguǒ nǐ qù Zhōngguó liúxué, nǐ zuì dānxīn shénme?",
+      "meaning": "Nếu du học Trung Quốc, bạn lo điều gì nhất?",
+      "example": "我会认真学习“如果你去中国留学，你最担心什么？”。",
+      "examplePinyin": "Wǒ huì rènzhēn xuéxí \"Rúguǒ nǐ qù Zhōngguó liúxué, nǐ zuì dānxīn shénme?\".",
+      "exampleMeaning": "Ví dụ ghi nhớ: Nếu du học Trung Quốc, bạn lo điều gì nhất?",
+      "synonyms": [],
+      "audioText": "如果你去中国留学，你最担心什么？"
+    },
+    {
+      "hanzi": "你怎么看网络学习？",
+      "pinyin": "Nǐ zěnme kàn wǎngluò xuéxí?",
+      "meaning": "Bạn nghĩ gì về học trực tuyến?",
+      "example": "我会认真学习“你怎么看网络学习？”。",
+      "examplePinyin": "Wǒ huì rènzhēn xuéxí \"Nǐ zěnme kàn wǎngluò xuéxí?\".",
+      "exampleMeaning": "Ví dụ ghi nhớ: Bạn nghĩ gì về học trực tuyến?",
+      "synonyms": [],
+      "audioText": "你怎么看网络学习？"
+    },
+    {
+      "hanzi": "请分享一次让你难忘的旅行经历。",
+      "pinyin": "Qǐng fēnxiǎng yí cì ràng nǐ nánwàng de lǚxíng jīnglì.",
+      "meaning": "Hãy chia sẻ một chuyến đi đáng nhớ.",
+      "example": "我会认真学习“请分享一次让你难忘的旅行经历。”。",
+      "examplePinyin": "Wǒ huì rènzhēn xuéxí \"Qǐng fēnxiǎng yí cì ràng nǐ nánwàng de lǚxíng jīnglì.\".",
+      "exampleMeaning": "Ví dụ ghi nhớ: Hãy chia sẻ một chuyến đi đáng nhớ.",
+      "synonyms": [],
+      "audioText": "请分享一次让你难忘的旅行经历。"
+    },
+    {
+      "hanzi": "你觉得学语言最重要的是什么？",
+      "pinyin": "Nǐ juéde xué yǔyán zuì zhòngyào de shì shénme?",
+      "meaning": "Theo bạn điều quan trọng nhất khi học ngôn ngữ là gì?",
+      "example": "我会认真学习“你觉得学语言最重要的是什么？”。",
+      "examplePinyin": "Wǒ huì rènzhēn xuéxí \"Nǐ juéde xué yǔyán zuì zhòngyào de shì shénme?\".",
+      "exampleMeaning": "Ví dụ ghi nhớ: Theo bạn điều quan trọng nhất khi học ngôn ngữ là gì?",
+      "synonyms": [],
+      "audioText": "你觉得学语言最重要的是什么？"
+    },
+    {
+      "hanzi": "谈谈你未来三年的计划。",
+      "pinyin": "Tántan nǐ wèilái sān nián de jìhuà.",
+      "meaning": "Hãy nói về kế hoạch 3 năm tới.",
+      "example": "我会认真学习“谈谈你未来三年的计划。”。",
+      "examplePinyin": "Wǒ huì rènzhēn xuéxí \"Tántan nǐ wèilái sān nián de jìhuà.\".",
+      "exampleMeaning": "Ví dụ ghi nhớ: Hãy nói về kế hoạch 3 năm tới.",
+      "synonyms": [],
+      "audioText": "谈谈你未来三年的计划。"
+    }
+  ],
+  "flashcards": [
+    {
+      "hanzi": "请介绍一下你自己。",
+      "pinyin": "Qǐng jièshào yíxià nǐ zìjǐ.",
+      "meaning": "Hãy giới thiệu về bản thân.",
+      "example": "我会认真学习“请介绍一下你自己。”。",
+      "examplePinyin": "Wǒ huì rènzhēn xuéxí \"Qǐng jièshào yíxià nǐ zìjǐ.\".",
+      "exampleMeaning": "Ví dụ ghi nhớ: Hãy giới thiệu về bản thân.",
+      "synonyms": [],
+      "audioText": "请介绍一下你自己。"
+    },
+    {
+      "hanzi": "你为什么学习汉语？",
+      "pinyin": "Nǐ wèishénme xuéxí Hànyǔ?",
+      "meaning": "Vì sao bạn học tiếng Trung?",
+      "example": "我会认真学习“你为什么学习汉语？”。",
+      "examplePinyin": "Wǒ huì rènzhēn xuéxí \"Nǐ wèishénme xuéxí Hànyǔ?\".",
+      "exampleMeaning": "Ví dụ ghi nhớ: Vì sao bạn học tiếng Trung?",
+      "synonyms": [],
+      "audioText": "你为什么学习汉语？"
+    },
+    {
+      "hanzi": "你平时怎么练习口语？",
+      "pinyin": "Nǐ píngshí zěnme liànxí kǒuyǔ?",
+      "meaning": "Bạn luyện khẩu ngữ thế nào?",
+      "example": "我会认真学习“你平时怎么练习口语？”。",
+      "examplePinyin": "Wǒ huì rènzhēn xuéxí \"Nǐ píngshí zěnme liànxí kǒuyǔ?\".",
+      "exampleMeaning": "Ví dụ ghi nhớ: Bạn luyện khẩu ngữ thế nào?",
+      "synonyms": [],
+      "audioText": "你平时怎么练习口语？"
+    },
+    {
+      "hanzi": "谈谈你最喜欢的一位老师。",
+      "pinyin": "Tántan nǐ zuì xǐhuān de yí wèi lǎoshī.",
+      "meaning": "Hãy nói về một giáo viên bạn thích nhất.",
+      "example": "我会认真学习“谈谈你最喜欢的一位老师。”。",
+      "examplePinyin": "Wǒ huì rènzhēn xuéxí \"Tántan nǐ zuì xǐhuān de yí wèi lǎoshī.\".",
+      "exampleMeaning": "Ví dụ ghi nhớ: Hãy nói về một giáo viên bạn thích nhất.",
+      "synonyms": [],
+      "audioText": "谈谈你最喜欢的一位老师。"
+    },
+    {
+      "hanzi": "描述一下你的家乡。",
+      "pinyin": "Miáoshù yíxià nǐ de jiāxiāng.",
+      "meaning": "Hãy miêu tả quê hương của bạn.",
+      "example": "我会认真学习“描述一下你的家乡。”。",
+      "examplePinyin": "Wǒ huì rènzhēn xuéxí \"Miáoshù yíxià nǐ de jiāxiāng.\".",
+      "exampleMeaning": "Ví dụ ghi nhớ: Hãy miêu tả quê hương của bạn.",
+      "synonyms": [],
+      "audioText": "描述一下你的家乡。"
+    },
+    {
+      "hanzi": "如果你去中国留学，你最担心什么？",
+      "pinyin": "Rúguǒ nǐ qù Zhōngguó liúxué, nǐ zuì dānxīn shénme?",
+      "meaning": "Nếu du học Trung Quốc, bạn lo điều gì nhất?",
+      "example": "我会认真学习“如果你去中国留学，你最担心什么？”。",
+      "examplePinyin": "Wǒ huì rènzhēn xuéxí \"Rúguǒ nǐ qù Zhōngguó liúxué, nǐ zuì dānxīn shénme?\".",
+      "exampleMeaning": "Ví dụ ghi nhớ: Nếu du học Trung Quốc, bạn lo điều gì nhất?",
+      "synonyms": [],
+      "audioText": "如果你去中国留学，你最担心什么？"
+    },
+    {
+      "hanzi": "你怎么看网络学习？",
+      "pinyin": "Nǐ zěnme kàn wǎngluò xuéxí?",
+      "meaning": "Bạn nghĩ gì về học trực tuyến?",
+      "example": "我会认真学习“你怎么看网络学习？”。",
+      "examplePinyin": "Wǒ huì rènzhēn xuéxí \"Nǐ zěnme kàn wǎngluò xuéxí?\".",
+      "exampleMeaning": "Ví dụ ghi nhớ: Bạn nghĩ gì về học trực tuyến?",
+      "synonyms": [],
+      "audioText": "你怎么看网络学习？"
+    },
+    {
+      "hanzi": "请分享一次让你难忘的旅行经历。",
+      "pinyin": "Qǐng fēnxiǎng yí cì ràng nǐ nánwàng de lǚxíng jīnglì.",
+      "meaning": "Hãy chia sẻ một chuyến đi đáng nhớ.",
+      "example": "我会认真学习“请分享一次让你难忘的旅行经历。”。",
+      "examplePinyin": "Wǒ huì rènzhēn xuéxí \"Qǐng fēnxiǎng yí cì ràng nǐ nánwàng de lǚxíng jīnglì.\".",
+      "exampleMeaning": "Ví dụ ghi nhớ: Hãy chia sẻ một chuyến đi đáng nhớ.",
+      "synonyms": [],
+      "audioText": "请分享一次让你难忘的旅行经历。"
+    },
+    {
+      "hanzi": "你觉得学语言最重要的是什么？",
+      "pinyin": "Nǐ juéde xué yǔyán zuì zhòngyào de shì shénme?",
+      "meaning": "Theo bạn điều quan trọng nhất khi học ngôn ngữ là gì?",
+      "example": "我会认真学习“你觉得学语言最重要的是什么？”。",
+      "examplePinyin": "Wǒ huì rènzhēn xuéxí \"Nǐ juéde xué yǔyán zuì zhòngyào de shì shénme?\".",
+      "exampleMeaning": "Ví dụ ghi nhớ: Theo bạn điều quan trọng nhất khi học ngôn ngữ là gì?",
+      "synonyms": [],
+      "audioText": "你觉得学语言最重要的是什么？"
+    },
+    {
+      "hanzi": "谈谈你未来三年的计划。",
+      "pinyin": "Tántan nǐ wèilái sān nián de jìhuà.",
+      "meaning": "Hãy nói về kế hoạch 3 năm tới.",
+      "example": "我会认真学习“谈谈你未来三年的计划。”。",
+      "examplePinyin": "Wǒ huì rènzhēn xuéxí \"Tántan nǐ wèilái sān nián de jìhuà.\".",
+      "exampleMeaning": "Ví dụ ghi nhớ: Hãy nói về kế hoạch 3 năm tới.",
+      "synonyms": [],
+      "audioText": "谈谈你未来三年的计划。"
+    }
+  ],
+  "reflection": [
+    {
+      "vi": "Hãy nói nhanh nghĩa của: Hãy giới thiệu về bản thân.",
+      "hanzi": "请介绍一下你自己。",
+      "pinyin": "Qǐng jièshào yíxià nǐ zìjǐ."
+    },
+    {
+      "vi": "Hãy nói nhanh nghĩa của: Vì sao bạn học tiếng Trung?",
+      "hanzi": "你为什么学习汉语？",
+      "pinyin": "Nǐ wèishénme xuéxí Hànyǔ?"
+    },
+    {
+      "vi": "Hãy nói nhanh nghĩa của: Bạn luyện khẩu ngữ thế nào?",
+      "hanzi": "你平时怎么练习口语？",
+      "pinyin": "Nǐ píngshí zěnme liànxí kǒuyǔ?"
+    },
+    {
+      "vi": "Hãy nói nhanh nghĩa của: Hãy nói về một giáo viên bạn thích nhất.",
+      "hanzi": "谈谈你最喜欢的一位老师。",
+      "pinyin": "Tántan nǐ zuì xǐhuān de yí wèi lǎoshī."
+    },
+    {
+      "vi": "Hãy nói nhanh nghĩa của: Hãy miêu tả quê hương của bạn.",
+      "hanzi": "描述一下你的家乡。",
+      "pinyin": "Miáoshù yíxià nǐ de jiāxiāng."
+    },
+    {
+      "vi": "Hãy nói nhanh nghĩa của: Nếu du học Trung Quốc, bạn lo điều gì nhất?",
+      "hanzi": "如果你去中国留学，你最担心什么？",
+      "pinyin": "Rúguǒ nǐ qù Zhōngguó liúxué, nǐ zuì dānxīn shénme?"
+    },
+    {
+      "vi": "Hãy nói nhanh nghĩa của: Bạn nghĩ gì về học trực tuyến?",
+      "hanzi": "你怎么看网络学习？",
+      "pinyin": "Nǐ zěnme kàn wǎngluò xuéxí?"
+    },
+    {
+      "vi": "Hãy nói nhanh nghĩa của: Hãy chia sẻ một chuyến đi đáng nhớ.",
+      "hanzi": "请分享一次让你难忘的旅行经历。",
+      "pinyin": "Qǐng fēnxiǎng yí cì ràng nǐ nánwàng de lǚxíng jīnglì."
+    }
+  ],
+  "dialogues": [
+    {
+      "title": "Hội thoại luyện tập HSKK",
+      "conversation": [
+        {
+          "speaker": "A",
+          "hanzi": "最近你的学习进展怎么样？",
+          "pinyin": "Zuìjìn nǐ de xuéxí jìnzhǎn zěnmeyàng?",
+          "meaning": "Gần đây việc học của bạn tiến triển thế nào?"
+        },
+        {
+          "speaker": "B",
+          "hanzi": "我按照计划每天练习听力、阅读和表达，感觉慢慢有进步。",
+          "pinyin": "Wǒ ànzhào jìhuà měitiān liànxí tīnglì, yuèdú hé biǎodá, gǎnjué mànmàn yǒu jìnbù.",
+          "meaning": "Tôi luyện nghe, đọc và diễn đạt mỗi ngày theo kế hoạch, cảm thấy tiến bộ dần."
+        },
+        {
+          "speaker": "A",
+          "hanzi": "遇到困难的时候，你通常怎么解决？",
+          "pinyin": "Yùdào kùnnan de shíhou, nǐ tōngcháng zěnme jiějué?",
+          "meaning": "Khi gặp khó khăn, bạn thường giải quyết thế nào?"
+        },
+        {
+          "speaker": "B",
+          "hanzi": "我会先整理问题，再向老师或同学请教，也会自己查资料。",
+          "pinyin": "Wǒ huì xiān zhěnglǐ wèntí, zài xiàng lǎoshī huò tóngxué qǐngjiào, yě huì zìjǐ chá zīliào.",
+          "meaning": "Tôi sẽ sắp xếp vấn đề trước, rồi hỏi thầy cô hoặc bạn học, đồng thời tự tra tài liệu."
+        },
+        {
+          "speaker": "A",
+          "hanzi": "这样坚持下去，你一定会越来越自信。",
+          "pinyin": "Zhèyàng jiānchí xiàqù, nǐ yídìng huì yuèláiyuè zìxìn.",
+          "meaning": "Kiên trì như vậy, bạn nhất định sẽ ngày càng tự tin."
+        }
+      ]
+    },
+    {
+      "title": "Trao đổi học tập HSKK",
+      "conversation": [
+        {
+          "speaker": "A",
+          "hanzi": "你最近学习汉语顺利吗？",
+          "pinyin": "Nǐ zuìjìn xuéxí Hànyǔ shùnlì ma?",
+          "meaning": "Dạo này bạn học tiếng Trung thuận lợi không?"
+        },
+        {
+          "speaker": "B",
+          "hanzi": "还不错，我每天都复习生词，也会练习听力。",
+          "pinyin": "Hái búcuò, wǒ měitiān dōu fùxí shēngcí, yě huì liànxí tīnglì.",
+          "meaning": "Cũng ổn, mỗi ngày tôi đều ôn từ mới và luyện nghe."
+        },
+        {
+          "speaker": "A",
+          "hanzi": "遇到不会的地方，你会怎么做？",
+          "pinyin": "Yùdào bú huì de dìfang, nǐ huì zěnme zuò?",
+          "meaning": "Khi gặp chỗ không biết, bạn sẽ làm gì?"
+        },
+        {
+          "speaker": "B",
+          "hanzi": "我会先查资料，再请老师帮我分析。",
+          "pinyin": "Wǒ huì xiān chá zīliào, zài qǐng lǎoshī bāng wǒ fēnxī.",
+          "meaning": "Tôi sẽ tra tài liệu trước, rồi nhờ giáo viên phân tích giúp."
+        },
+        {
+          "speaker": "A",
+          "hanzi": "这样坚持下去，你一定会进步得更快。",
+          "pinyin": "Zhèyàng jiānchí xiàqù, nǐ yídìng huì jìnbù de gèng kuài.",
+          "meaning": "Kiên trì như vậy, bạn nhất định sẽ tiến bộ nhanh hơn."
+        }
+      ]
+    }
+  ],
+  "exercises": [
+    {
+      "question": "Chọn nghĩa đúng của “请介绍一下你自己。”",
+      "options": [
+        "thành phố",
+        "Hãy giới thiệu về bản thân.",
+        "thói quen",
+        "phương pháp"
+      ],
+      "answer": "Hãy giới thiệu về bản thân."
+    },
+    {
+      "question": "Chọn nghĩa đúng của “你为什么学习汉语？”",
+      "options": [
+        "phương pháp",
+        "thói quen",
+        "thành phố",
+        "Vì sao bạn học tiếng Trung?"
+      ],
+      "answer": "Vì sao bạn học tiếng Trung?"
+    },
+    {
+      "question": "Chọn nghĩa đúng của “你平时怎么练习口语？”",
+      "options": [
+        "thành phố",
+        "Bạn luyện khẩu ngữ thế nào?",
+        "thói quen",
+        "phương pháp"
+      ],
+      "answer": "Bạn luyện khẩu ngữ thế nào?"
+    },
+    {
+      "question": "Chọn nghĩa đúng của “谈谈你最喜欢的一位老师。”",
+      "options": [
+        "thói quen",
+        "Hãy nói về một giáo viên bạn thích nhất.",
+        "thành phố",
+        "phương pháp"
+      ],
+      "answer": "Hãy nói về một giáo viên bạn thích nhất."
+    },
+    {
+      "question": "Chọn nghĩa đúng của “描述一下你的家乡。”",
+      "options": [
+        "Hãy miêu tả quê hương của bạn.",
+        "phương pháp",
+        "thành phố",
+        "thói quen"
+      ],
+      "answer": "Hãy miêu tả quê hương của bạn."
+    },
+    {
+      "question": "Chọn nghĩa đúng của “如果你去中国留学，你最担心什么？”",
+      "options": [
+        "thành phố",
+        "thói quen",
+        "phương pháp",
+        "Nếu du học Trung Quốc, bạn lo điều gì nhất?"
+      ],
+      "answer": "Nếu du học Trung Quốc, bạn lo điều gì nhất?"
+    },
+    {
+      "question": "Chọn nghĩa đúng của “你怎么看网络学习？”",
+      "options": [
+        "thành phố",
+        "phương pháp",
+        "Bạn nghĩ gì về học trực tuyến?",
+        "thói quen"
+      ],
+      "answer": "Bạn nghĩ gì về học trực tuyến?"
+    },
+    {
+      "question": "Chọn nghĩa đúng của “请分享一次让你难忘的旅行经历。”",
+      "options": [
+        "Hãy chia sẻ một chuyến đi đáng nhớ.",
+        "thói quen",
+        "thành phố",
+        "phương pháp"
+      ],
+      "answer": "Hãy chia sẻ một chuyến đi đáng nhớ."
+    },
+    {
+      "question": "Chọn nghĩa đúng của “你觉得学语言最重要的是什么？”",
+      "options": [
+        "Theo bạn điều quan trọng nhất khi học ngôn ngữ là gì?",
+        "phương pháp",
+        "thói quen",
+        "thành phố"
+      ],
+      "answer": "Theo bạn điều quan trọng nhất khi học ngôn ngữ là gì?"
+    },
+    {
+      "question": "Chọn nghĩa đúng của “谈谈你未来三年的计划。”",
+      "options": [
+        "thành phố",
+        "thói quen",
+        "phương pháp",
+        "Hãy nói về kế hoạch 3 năm tới."
+      ],
+      "answer": "Hãy nói về kế hoạch 3 năm tới."
+    },
+    {
+      "question": "Chọn nghĩa đúng của “请介绍一下你自己。”",
+      "options": [
+        "Hãy nói về một giáo viên bạn thích nhất.",
+        "Hãy giới thiệu về bản thân.",
+        "Vì sao bạn học tiếng Trung?",
+        "Bạn luyện khẩu ngữ thế nào?"
+      ],
+      "answer": "Hãy giới thiệu về bản thân."
+    },
+    {
+      "question": "Chọn nghĩa đúng của “你为什么学习汉语？”",
+      "options": [
+        "Hãy nói về một giáo viên bạn thích nhất.",
+        "Hãy giới thiệu về bản thân.",
+        "Bạn luyện khẩu ngữ thế nào?",
+        "Vì sao bạn học tiếng Trung?"
+      ],
+      "answer": "Vì sao bạn học tiếng Trung?"
+    }
+  ]
+}

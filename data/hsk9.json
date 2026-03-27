@@ -1,0 +1,744 @@
+{
+  "level": "HSK9",
+  "premium_locked": true,
+  "typing_practice": [
+    {
+      "hanzi": "提纲挈领",
+      "pinyin": "tí gāng qiè lǐng",
+      "meaning": "nắm được cốt lõi",
+      "example": "我会认真学习“提纲挈领”。",
+      "examplePinyin": "Wǒ huì rènzhēn xuéxí \"tí gāng qiè lǐng\".",
+      "exampleMeaning": "Ví dụ ghi nhớ: nắm được cốt lõi",
+      "synonyms": [],
+      "audioText": "提纲挈领"
+    },
+    {
+      "hanzi": "融通",
+      "pinyin": "róngtōng",
+      "meaning": "dung thông",
+      "example": "我会认真学习“融通”。",
+      "examplePinyin": "Wǒ huì rènzhēn xuéxí \"róngtōng\".",
+      "exampleMeaning": "Ví dụ ghi nhớ: dung thông",
+      "synonyms": [],
+      "audioText": "融通"
+    },
+    {
+      "hanzi": "鞭辟入里",
+      "pinyin": "biān pì rù lǐ",
+      "meaning": "phân tích sâu sắc",
+      "example": "我会认真学习“鞭辟入里”。",
+      "examplePinyin": "Wǒ huì rènzhēn xuéxí \"biān pì rù lǐ\".",
+      "exampleMeaning": "Ví dụ ghi nhớ: phân tích sâu sắc",
+      "synonyms": [],
+      "audioText": "鞭辟入里"
+    },
+    {
+      "hanzi": "旁征博引",
+      "pinyin": "páng zhēng bó yǐn",
+      "meaning": "dẫn chứng phong phú",
+      "example": "我会认真学习“旁征博引”。",
+      "examplePinyin": "Wǒ huì rènzhēn xuéxí \"páng zhēng bó yǐn\".",
+      "exampleMeaning": "Ví dụ ghi nhớ: dẫn chứng phong phú",
+      "synonyms": [],
+      "audioText": "旁征博引"
+    },
+    {
+      "hanzi": "循名责实",
+      "pinyin": "xún míng zé shí",
+      "meaning": "xét theo thực chất",
+      "example": "我会认真学习“循名责实”。",
+      "examplePinyin": "Wǒ huì rènzhēn xuéxí \"xún míng zé shí\".",
+      "exampleMeaning": "Ví dụ ghi nhớ: xét theo thực chất",
+      "synonyms": [],
+      "audioText": "循名责实"
+    },
+    {
+      "hanzi": "审慎",
+      "pinyin": "shěnshèn",
+      "meaning": "thận trọng",
+      "example": "我会认真学习“审慎”。",
+      "examplePinyin": "Wǒ huì rènzhēn xuéxí \"shěnshèn\".",
+      "exampleMeaning": "Ví dụ ghi nhớ: thận trọng",
+      "synonyms": [],
+      "audioText": "审慎"
+    },
+    {
+      "hanzi": "洞悉",
+      "pinyin": "dòngxī",
+      "meaning": "thấu suốt",
+      "example": "我会认真学习“洞悉”。",
+      "examplePinyin": "Wǒ huì rènzhēn xuéxí \"dòngxī\".",
+      "exampleMeaning": "Ví dụ ghi nhớ: thấu suốt",
+      "synonyms": [],
+      "audioText": "洞悉"
+    },
+    {
+      "hanzi": "统摄",
+      "pinyin": "tǒngshè",
+      "meaning": "bao quát, thống lĩnh",
+      "example": "我会认真学习“统摄”。",
+      "examplePinyin": "Wǒ huì rènzhēn xuéxí \"tǒngshè\".",
+      "exampleMeaning": "Ví dụ ghi nhớ: bao quát, thống lĩnh",
+      "synonyms": [],
+      "audioText": "统摄"
+    },
+    {
+      "hanzi": "兼容",
+      "pinyin": "jiānróng",
+      "meaning": "tương thích, dung nạp",
+      "example": "我会认真学习“兼容”。",
+      "examplePinyin": "Wǒ huì rènzhēn xuéxí \"jiānróng\".",
+      "exampleMeaning": "Ví dụ ghi nhớ: tương thích, dung nạp",
+      "synonyms": [],
+      "audioText": "兼容"
+    },
+    {
+      "hanzi": "剖析",
+      "pinyin": "pōuxī",
+      "meaning": "mổ xẻ, phân tích",
+      "example": "我会认真学习“剖析”。",
+      "examplePinyin": "Wǒ huì rènzhēn xuéxí \"pōuxī\".",
+      "exampleMeaning": "Ví dụ ghi nhớ: mổ xẻ, phân tích",
+      "synonyms": [],
+      "audioText": "剖析"
+    },
+    {
+      "hanzi": "臻于",
+      "pinyin": "zhēnyú",
+      "meaning": "đạt tới",
+      "example": "我会认真学习“臻于”。",
+      "examplePinyin": "Wǒ huì rènzhēn xuéxí \"zhēnyú\".",
+      "exampleMeaning": "Ví dụ ghi nhớ: đạt tới",
+      "synonyms": [],
+      "audioText": "臻于"
+    },
+    {
+      "hanzi": "铺垫",
+      "pinyin": "pūdiàn",
+      "meaning": "làm nền",
+      "example": "我会认真学习“铺垫”。",
+      "examplePinyin": "Wǒ huì rènzhēn xuéxí \"pūdiàn\".",
+      "exampleMeaning": "Ví dụ ghi nhớ: làm nền",
+      "synonyms": [],
+      "audioText": "铺垫"
+    },
+    {
+      "hanzi": "规训",
+      "pinyin": "guīxùn",
+      "meaning": "chuẩn hóa, uốn nắn",
+      "example": "我会认真学习“规训”。",
+      "examplePinyin": "Wǒ huì rènzhēn xuéxí \"guīxùn\".",
+      "exampleMeaning": "Ví dụ ghi nhớ: chuẩn hóa, uốn nắn",
+      "synonyms": [],
+      "audioText": "规训"
+    },
+    {
+      "hanzi": "嬗变",
+      "pinyin": "shànbiàn",
+      "meaning": "biến đổi dần",
+      "example": "我会认真学习“嬗变”。",
+      "examplePinyin": "Wǒ huì rènzhēn xuéxí \"shànbiàn\".",
+      "exampleMeaning": "Ví dụ ghi nhớ: biến đổi dần",
+      "synonyms": [],
+      "audioText": "嬗变"
+    },
+    {
+      "hanzi": "博弈",
+      "pinyin": "bóyì",
+      "meaning": "cạnh tranh chiến lược",
+      "example": "我会认真学习“博弈”。",
+      "examplePinyin": "Wǒ huì rènzhēn xuéxí \"bóyì\".",
+      "exampleMeaning": "Ví dụ ghi nhớ: cạnh tranh chiến lược",
+      "synonyms": [],
+      "audioText": "博弈"
+    },
+    {
+      "hanzi": "证伪",
+      "pinyin": "zhèngwěi",
+      "meaning": "chứng sai",
+      "example": "我会认真学习“证伪”。",
+      "examplePinyin": "Wǒ huì rènzhēn xuéxí \"zhèngwěi\".",
+      "exampleMeaning": "Ví dụ ghi nhớ: chứng sai",
+      "synonyms": [],
+      "audioText": "证伪"
+    },
+    {
+      "hanzi": "证成",
+      "pinyin": "zhèngchéng",
+      "meaning": "chứng thành",
+      "example": "我会认真学习“证成”。",
+      "examplePinyin": "Wǒ huì rènzhēn xuéxí \"zhèngchéng\".",
+      "exampleMeaning": "Ví dụ ghi nhớ: chứng thành",
+      "synonyms": [],
+      "audioText": "证成"
+    },
+    {
+      "hanzi": "形塑",
+      "pinyin": "xíngsù",
+      "meaning": "định hình",
+      "example": "我会认真学习“形塑”。",
+      "examplePinyin": "Wǒ huì rènzhēn xuéxí \"xíngsù\".",
+      "exampleMeaning": "Ví dụ ghi nhớ: định hình",
+      "synonyms": [],
+      "audioText": "形塑"
+    },
+    {
+      "hanzi": "钩沉",
+      "pinyin": "gōuchén",
+      "meaning": "khảo cứu những điều bị chìm lấp",
+      "example": "我会认真学习“钩沉”。",
+      "examplePinyin": "Wǒ huì rènzhēn xuéxí \"gōuchén\".",
+      "exampleMeaning": "Ví dụ ghi nhớ: khảo cứu những điều bị chìm lấp",
+      "synonyms": [],
+      "audioText": "钩沉"
+    },
+    {
+      "hanzi": "涵化",
+      "pinyin": "hánhuà",
+      "meaning": "thẩm thấu văn hóa",
+      "example": "我会认真学习“涵化”。",
+      "examplePinyin": "Wǒ huì rènzhēn xuéxí \"hánhuà\".",
+      "exampleMeaning": "Ví dụ ghi nhớ: thẩm thấu văn hóa",
+      "synonyms": [],
+      "audioText": "涵化"
+    },
+    {
+      "hanzi": "范导",
+      "pinyin": "fàndǎo",
+      "meaning": "dẫn dắt bằng mẫu",
+      "example": "我会认真学习“范导”。",
+      "examplePinyin": "Wǒ huì rènzhēn xuéxí \"fàndǎo\".",
+      "exampleMeaning": "Ví dụ ghi nhớ: dẫn dắt bằng mẫu",
+      "synonyms": [],
+      "audioText": "范导"
+    },
+    {
+      "hanzi": "精审",
+      "pinyin": "jīngshěn",
+      "meaning": "xét kỹ",
+      "example": "我会认真学习“精审”。",
+      "examplePinyin": "Wǒ huì rènzhēn xuéxí \"jīngshěn\".",
+      "exampleMeaning": "Ví dụ ghi nhớ: xét kỹ",
+      "synonyms": [],
+      "audioText": "精审"
+    },
+    {
+      "hanzi": "缜密",
+      "pinyin": "zhěnmì",
+      "meaning": "chặt chẽ",
+      "example": "我会认真学习“缜密”。",
+      "examplePinyin": "Wǒ huì rènzhēn xuéxí \"zhěnmì\".",
+      "exampleMeaning": "Ví dụ ghi nhớ: chặt chẽ",
+      "synonyms": [],
+      "audioText": "缜密"
+    },
+    {
+      "hanzi": "恢宏",
+      "pinyin": "huīhóng",
+      "meaning": "hoành tráng",
+      "example": "我会认真学习“恢宏”。",
+      "examplePinyin": "Wǒ huì rènzhēn xuéxí \"huīhóng\".",
+      "exampleMeaning": "Ví dụ ghi nhớ: hoành tráng",
+      "synonyms": [],
+      "audioText": "恢宏"
+    },
+    {
+      "hanzi": "纵览",
+      "pinyin": "zònglǎn",
+      "meaning": "nhìn bao quát",
+      "example": "我会认真学习“纵览”。",
+      "examplePinyin": "Wǒ huì rènzhēn xuéxí \"zònglǎn\".",
+      "exampleMeaning": "Ví dụ ghi nhớ: nhìn bao quát",
+      "synonyms": [],
+      "audioText": "纵览"
+    }
+  ],
+  "flashcards": [
+    {
+      "hanzi": "提纲挈领",
+      "pinyin": "tí gāng qiè lǐng",
+      "meaning": "nắm được cốt lõi",
+      "example": "我会认真学习“提纲挈领”。",
+      "examplePinyin": "Wǒ huì rènzhēn xuéxí \"tí gāng qiè lǐng\".",
+      "exampleMeaning": "Ví dụ ghi nhớ: nắm được cốt lõi",
+      "synonyms": [],
+      "audioText": "提纲挈领"
+    },
+    {
+      "hanzi": "融通",
+      "pinyin": "róngtōng",
+      "meaning": "dung thông",
+      "example": "我会认真学习“融通”。",
+      "examplePinyin": "Wǒ huì rènzhēn xuéxí \"róngtōng\".",
+      "exampleMeaning": "Ví dụ ghi nhớ: dung thông",
+      "synonyms": [],
+      "audioText": "融通"
+    },
+    {
+      "hanzi": "鞭辟入里",
+      "pinyin": "biān pì rù lǐ",
+      "meaning": "phân tích sâu sắc",
+      "example": "我会认真学习“鞭辟入里”。",
+      "examplePinyin": "Wǒ huì rènzhēn xuéxí \"biān pì rù lǐ\".",
+      "exampleMeaning": "Ví dụ ghi nhớ: phân tích sâu sắc",
+      "synonyms": [],
+      "audioText": "鞭辟入里"
+    },
+    {
+      "hanzi": "旁征博引",
+      "pinyin": "páng zhēng bó yǐn",
+      "meaning": "dẫn chứng phong phú",
+      "example": "我会认真学习“旁征博引”。",
+      "examplePinyin": "Wǒ huì rènzhēn xuéxí \"páng zhēng bó yǐn\".",
+      "exampleMeaning": "Ví dụ ghi nhớ: dẫn chứng phong phú",
+      "synonyms": [],
+      "audioText": "旁征博引"
+    },
+    {
+      "hanzi": "循名责实",
+      "pinyin": "xún míng zé shí",
+      "meaning": "xét theo thực chất",
+      "example": "我会认真学习“循名责实”。",
+      "examplePinyin": "Wǒ huì rènzhēn xuéxí \"xún míng zé shí\".",
+      "exampleMeaning": "Ví dụ ghi nhớ: xét theo thực chất",
+      "synonyms": [],
+      "audioText": "循名责实"
+    },
+    {
+      "hanzi": "审慎",
+      "pinyin": "shěnshèn",
+      "meaning": "thận trọng",
+      "example": "我会认真学习“审慎”。",
+      "examplePinyin": "Wǒ huì rènzhēn xuéxí \"shěnshèn\".",
+      "exampleMeaning": "Ví dụ ghi nhớ: thận trọng",
+      "synonyms": [],
+      "audioText": "审慎"
+    },
+    {
+      "hanzi": "洞悉",
+      "pinyin": "dòngxī",
+      "meaning": "thấu suốt",
+      "example": "我会认真学习“洞悉”。",
+      "examplePinyin": "Wǒ huì rènzhēn xuéxí \"dòngxī\".",
+      "exampleMeaning": "Ví dụ ghi nhớ: thấu suốt",
+      "synonyms": [],
+      "audioText": "洞悉"
+    },
+    {
+      "hanzi": "统摄",
+      "pinyin": "tǒngshè",
+      "meaning": "bao quát, thống lĩnh",
+      "example": "我会认真学习“统摄”。",
+      "examplePinyin": "Wǒ huì rènzhēn xuéxí \"tǒngshè\".",
+      "exampleMeaning": "Ví dụ ghi nhớ: bao quát, thống lĩnh",
+      "synonyms": [],
+      "audioText": "统摄"
+    },
+    {
+      "hanzi": "兼容",
+      "pinyin": "jiānróng",
+      "meaning": "tương thích, dung nạp",
+      "example": "我会认真学习“兼容”。",
+      "examplePinyin": "Wǒ huì rènzhēn xuéxí \"jiānróng\".",
+      "exampleMeaning": "Ví dụ ghi nhớ: tương thích, dung nạp",
+      "synonyms": [],
+      "audioText": "兼容"
+    },
+    {
+      "hanzi": "剖析",
+      "pinyin": "pōuxī",
+      "meaning": "mổ xẻ, phân tích",
+      "example": "我会认真学习“剖析”。",
+      "examplePinyin": "Wǒ huì rènzhēn xuéxí \"pōuxī\".",
+      "exampleMeaning": "Ví dụ ghi nhớ: mổ xẻ, phân tích",
+      "synonyms": [],
+      "audioText": "剖析"
+    },
+    {
+      "hanzi": "臻于",
+      "pinyin": "zhēnyú",
+      "meaning": "đạt tới",
+      "example": "我会认真学习“臻于”。",
+      "examplePinyin": "Wǒ huì rènzhēn xuéxí \"zhēnyú\".",
+      "exampleMeaning": "Ví dụ ghi nhớ: đạt tới",
+      "synonyms": [],
+      "audioText": "臻于"
+    },
+    {
+      "hanzi": "铺垫",
+      "pinyin": "pūdiàn",
+      "meaning": "làm nền",
+      "example": "我会认真学习“铺垫”。",
+      "examplePinyin": "Wǒ huì rènzhēn xuéxí \"pūdiàn\".",
+      "exampleMeaning": "Ví dụ ghi nhớ: làm nền",
+      "synonyms": [],
+      "audioText": "铺垫"
+    },
+    {
+      "hanzi": "规训",
+      "pinyin": "guīxùn",
+      "meaning": "chuẩn hóa, uốn nắn",
+      "example": "我会认真学习“规训”。",
+      "examplePinyin": "Wǒ huì rènzhēn xuéxí \"guīxùn\".",
+      "exampleMeaning": "Ví dụ ghi nhớ: chuẩn hóa, uốn nắn",
+      "synonyms": [],
+      "audioText": "规训"
+    },
+    {
+      "hanzi": "嬗变",
+      "pinyin": "shànbiàn",
+      "meaning": "biến đổi dần",
+      "example": "我会认真学习“嬗变”。",
+      "examplePinyin": "Wǒ huì rènzhēn xuéxí \"shànbiàn\".",
+      "exampleMeaning": "Ví dụ ghi nhớ: biến đổi dần",
+      "synonyms": [],
+      "audioText": "嬗变"
+    },
+    {
+      "hanzi": "博弈",
+      "pinyin": "bóyì",
+      "meaning": "cạnh tranh chiến lược",
+      "example": "我会认真学习“博弈”。",
+      "examplePinyin": "Wǒ huì rènzhēn xuéxí \"bóyì\".",
+      "exampleMeaning": "Ví dụ ghi nhớ: cạnh tranh chiến lược",
+      "synonyms": [],
+      "audioText": "博弈"
+    },
+    {
+      "hanzi": "证伪",
+      "pinyin": "zhèngwěi",
+      "meaning": "chứng sai",
+      "example": "我会认真学习“证伪”。",
+      "examplePinyin": "Wǒ huì rènzhēn xuéxí \"zhèngwěi\".",
+      "exampleMeaning": "Ví dụ ghi nhớ: chứng sai",
+      "synonyms": [],
+      "audioText": "证伪"
+    },
+    {
+      "hanzi": "证成",
+      "pinyin": "zhèngchéng",
+      "meaning": "chứng thành",
+      "example": "我会认真学习“证成”。",
+      "examplePinyin": "Wǒ huì rènzhēn xuéxí \"zhèngchéng\".",
+      "exampleMeaning": "Ví dụ ghi nhớ: chứng thành",
+      "synonyms": [],
+      "audioText": "证成"
+    },
+    {
+      "hanzi": "形塑",
+      "pinyin": "xíngsù",
+      "meaning": "định hình",
+      "example": "我会认真学习“形塑”。",
+      "examplePinyin": "Wǒ huì rènzhēn xuéxí \"xíngsù\".",
+      "exampleMeaning": "Ví dụ ghi nhớ: định hình",
+      "synonyms": [],
+      "audioText": "形塑"
+    },
+    {
+      "hanzi": "钩沉",
+      "pinyin": "gōuchén",
+      "meaning": "khảo cứu những điều bị chìm lấp",
+      "example": "我会认真学习“钩沉”。",
+      "examplePinyin": "Wǒ huì rènzhēn xuéxí \"gōuchén\".",
+      "exampleMeaning": "Ví dụ ghi nhớ: khảo cứu những điều bị chìm lấp",
+      "synonyms": [],
+      "audioText": "钩沉"
+    },
+    {
+      "hanzi": "涵化",
+      "pinyin": "hánhuà",
+      "meaning": "thẩm thấu văn hóa",
+      "example": "我会认真学习“涵化”。",
+      "examplePinyin": "Wǒ huì rènzhēn xuéxí \"hánhuà\".",
+      "exampleMeaning": "Ví dụ ghi nhớ: thẩm thấu văn hóa",
+      "synonyms": [],
+      "audioText": "涵化"
+    },
+    {
+      "hanzi": "范导",
+      "pinyin": "fàndǎo",
+      "meaning": "dẫn dắt bằng mẫu",
+      "example": "我会认真学习“范导”。",
+      "examplePinyin": "Wǒ huì rènzhēn xuéxí \"fàndǎo\".",
+      "exampleMeaning": "Ví dụ ghi nhớ: dẫn dắt bằng mẫu",
+      "synonyms": [],
+      "audioText": "范导"
+    },
+    {
+      "hanzi": "精审",
+      "pinyin": "jīngshěn",
+      "meaning": "xét kỹ",
+      "example": "我会认真学习“精审”。",
+      "examplePinyin": "Wǒ huì rènzhēn xuéxí \"jīngshěn\".",
+      "exampleMeaning": "Ví dụ ghi nhớ: xét kỹ",
+      "synonyms": [],
+      "audioText": "精审"
+    },
+    {
+      "hanzi": "缜密",
+      "pinyin": "zhěnmì",
+      "meaning": "chặt chẽ",
+      "example": "我会认真学习“缜密”。",
+      "examplePinyin": "Wǒ huì rènzhēn xuéxí \"zhěnmì\".",
+      "exampleMeaning": "Ví dụ ghi nhớ: chặt chẽ",
+      "synonyms": [],
+      "audioText": "缜密"
+    },
+    {
+      "hanzi": "恢宏",
+      "pinyin": "huīhóng",
+      "meaning": "hoành tráng",
+      "example": "我会认真学习“恢宏”。",
+      "examplePinyin": "Wǒ huì rènzhēn xuéxí \"huīhóng\".",
+      "exampleMeaning": "Ví dụ ghi nhớ: hoành tráng",
+      "synonyms": [],
+      "audioText": "恢宏"
+    },
+    {
+      "hanzi": "纵览",
+      "pinyin": "zònglǎn",
+      "meaning": "nhìn bao quát",
+      "example": "我会认真学习“纵览”。",
+      "examplePinyin": "Wǒ huì rènzhēn xuéxí \"zònglǎn\".",
+      "exampleMeaning": "Ví dụ ghi nhớ: nhìn bao quát",
+      "synonyms": [],
+      "audioText": "纵览"
+    }
+  ],
+  "reflection": [
+    {
+      "vi": "Hãy nói nhanh nghĩa của: nắm được cốt lõi",
+      "hanzi": "提纲挈领",
+      "pinyin": "tí gāng qiè lǐng"
+    },
+    {
+      "vi": "Hãy nói nhanh nghĩa của: dung thông",
+      "hanzi": "融通",
+      "pinyin": "róngtōng"
+    },
+    {
+      "vi": "Hãy nói nhanh nghĩa của: phân tích sâu sắc",
+      "hanzi": "鞭辟入里",
+      "pinyin": "biān pì rù lǐ"
+    },
+    {
+      "vi": "Hãy nói nhanh nghĩa của: dẫn chứng phong phú",
+      "hanzi": "旁征博引",
+      "pinyin": "páng zhēng bó yǐn"
+    },
+    {
+      "vi": "Hãy nói nhanh nghĩa của: xét theo thực chất",
+      "hanzi": "循名责实",
+      "pinyin": "xún míng zé shí"
+    },
+    {
+      "vi": "Hãy nói nhanh nghĩa của: thận trọng",
+      "hanzi": "审慎",
+      "pinyin": "shěnshèn"
+    },
+    {
+      "vi": "Hãy nói nhanh nghĩa của: thấu suốt",
+      "hanzi": "洞悉",
+      "pinyin": "dòngxī"
+    },
+    {
+      "vi": "Hãy nói nhanh nghĩa của: bao quát, thống lĩnh",
+      "hanzi": "统摄",
+      "pinyin": "tǒngshè"
+    }
+  ],
+  "dialogues": [
+    {
+      "title": "Hội thoại luyện tập HSK9",
+      "conversation": [
+        {
+          "speaker": "A",
+          "hanzi": "最近你的学习进展怎么样？",
+          "pinyin": "Zuìjìn nǐ de xuéxí jìnzhǎn zěnmeyàng?",
+          "meaning": "Gần đây việc học của bạn tiến triển thế nào?"
+        },
+        {
+          "speaker": "B",
+          "hanzi": "我按照计划每天练习听力、阅读和表达，感觉慢慢有进步。",
+          "pinyin": "Wǒ ànzhào jìhuà měitiān liànxí tīnglì, yuèdú hé biǎodá, gǎnjué mànmàn yǒu jìnbù.",
+          "meaning": "Tôi luyện nghe, đọc và diễn đạt mỗi ngày theo kế hoạch, cảm thấy tiến bộ dần."
+        },
+        {
+          "speaker": "A",
+          "hanzi": "遇到困难的时候，你通常怎么解决？",
+          "pinyin": "Yùdào kùnnan de shíhou, nǐ tōngcháng zěnme jiějué?",
+          "meaning": "Khi gặp khó khăn, bạn thường giải quyết thế nào?"
+        },
+        {
+          "speaker": "B",
+          "hanzi": "我会先整理问题，再向老师或同学请教，也会自己查资料。",
+          "pinyin": "Wǒ huì xiān zhěnglǐ wèntí, zài xiàng lǎoshī huò tóngxué qǐngjiào, yě huì zìjǐ chá zīliào.",
+          "meaning": "Tôi sẽ sắp xếp vấn đề trước, rồi hỏi thầy cô hoặc bạn học, đồng thời tự tra tài liệu."
+        },
+        {
+          "speaker": "A",
+          "hanzi": "这样坚持下去，你一定会越来越自信。",
+          "pinyin": "Zhèyàng jiānchí xiàqù, nǐ yídìng huì yuèláiyuè zìxìn.",
+          "meaning": "Kiên trì như vậy, bạn nhất định sẽ ngày càng tự tin."
+        }
+      ]
+    },
+    {
+      "title": "Trao đổi học tập HSK9",
+      "conversation": [
+        {
+          "speaker": "A",
+          "hanzi": "你最近学习汉语顺利吗？",
+          "pinyin": "Nǐ zuìjìn xuéxí Hànyǔ shùnlì ma?",
+          "meaning": "Dạo này bạn học tiếng Trung thuận lợi không?"
+        },
+        {
+          "speaker": "B",
+          "hanzi": "还不错，我每天都复习生词，也会练习听力。",
+          "pinyin": "Hái búcuò, wǒ měitiān dōu fùxí shēngcí, yě huì liànxí tīnglì.",
+          "meaning": "Cũng ổn, mỗi ngày tôi đều ôn từ mới và luyện nghe."
+        },
+        {
+          "speaker": "A",
+          "hanzi": "遇到不会的地方，你会怎么做？",
+          "pinyin": "Yùdào bú huì de dìfang, nǐ huì zěnme zuò?",
+          "meaning": "Khi gặp chỗ không biết, bạn sẽ làm gì?"
+        },
+        {
+          "speaker": "B",
+          "hanzi": "我会先查资料，再请老师帮我分析。",
+          "pinyin": "Wǒ huì xiān chá zīliào, zài qǐng lǎoshī bāng wǒ fēnxī.",
+          "meaning": "Tôi sẽ tra tài liệu trước, rồi nhờ giáo viên phân tích giúp."
+        },
+        {
+          "speaker": "A",
+          "hanzi": "这样坚持下去，你一定会进步得更快。",
+          "pinyin": "Zhèyàng jiānchí xiàqù, nǐ yídìng huì jìnbù de gèng kuài.",
+          "meaning": "Kiên trì như vậy, bạn nhất định sẽ tiến bộ nhanh hơn."
+        }
+      ]
+    }
+  ],
+  "exercises": [
+    {
+      "question": "Chọn nghĩa đúng của “提纲挈领”",
+      "options": [
+        "chuẩn hóa, uốn nắn",
+        "nắm được cốt lõi",
+        "làm nền",
+        "đạt tới"
+      ],
+      "answer": "nắm được cốt lõi"
+    },
+    {
+      "question": "Chọn nghĩa đúng của “融通”",
+      "options": [
+        "đạt tới",
+        "làm nền",
+        "chuẩn hóa, uốn nắn",
+        "dung thông"
+      ],
+      "answer": "dung thông"
+    },
+    {
+      "question": "Chọn nghĩa đúng của “鞭辟入里”",
+      "options": [
+        "chuẩn hóa, uốn nắn",
+        "phân tích sâu sắc",
+        "làm nền",
+        "đạt tới"
+      ],
+      "answer": "phân tích sâu sắc"
+    },
+    {
+      "question": "Chọn nghĩa đúng của “旁征博引”",
+      "options": [
+        "làm nền",
+        "dẫn chứng phong phú",
+        "chuẩn hóa, uốn nắn",
+        "đạt tới"
+      ],
+      "answer": "dẫn chứng phong phú"
+    },
+    {
+      "question": "Chọn nghĩa đúng của “循名责实”",
+      "options": [
+        "xét theo thực chất",
+        "đạt tới",
+        "chuẩn hóa, uốn nắn",
+        "làm nền"
+      ],
+      "answer": "xét theo thực chất"
+    },
+    {
+      "question": "Chọn nghĩa đúng của “审慎”",
+      "options": [
+        "chuẩn hóa, uốn nắn",
+        "làm nền",
+        "đạt tới",
+        "thận trọng"
+      ],
+      "answer": "thận trọng"
+    },
+    {
+      "question": "Chọn nghĩa đúng của “洞悉”",
+      "options": [
+        "chuẩn hóa, uốn nắn",
+        "đạt tới",
+        "thấu suốt",
+        "làm nền"
+      ],
+      "answer": "thấu suốt"
+    },
+    {
+      "question": "Chọn nghĩa đúng của “统摄”",
+      "options": [
+        "bao quát, thống lĩnh",
+        "làm nền",
+        "chuẩn hóa, uốn nắn",
+        "đạt tới"
+      ],
+      "answer": "bao quát, thống lĩnh"
+    },
+    {
+      "question": "Chọn nghĩa đúng của “兼容”",
+      "options": [
+        "tương thích, dung nạp",
+        "đạt tới",
+        "làm nền",
+        "chuẩn hóa, uốn nắn"
+      ],
+      "answer": "tương thích, dung nạp"
+    },
+    {
+      "question": "Chọn nghĩa đúng của “剖析”",
+      "options": [
+        "chuẩn hóa, uốn nắn",
+        "làm nền",
+        "đạt tới",
+        "mổ xẻ, phân tích"
+      ],
+      "answer": "mổ xẻ, phân tích"
+    },
+    {
+      "question": "Chọn nghĩa đúng của “提纲挈领”",
+      "options": [
+        "phân tích sâu sắc",
+        "dung thông",
+        "dẫn chứng phong phú",
+        "nắm được cốt lõi"
+      ],
+      "answer": "nắm được cốt lõi"
+    },
+    {
+      "question": "Chọn nghĩa đúng của “融通”",
+      "options": [
+        "dẫn chứng phong phú",
+        "nắm được cốt lõi",
+        "dung thông",
+        "phân tích sâu sắc"
+      ],
+      "answer": "dung thông"
+    }
+  ]
+}

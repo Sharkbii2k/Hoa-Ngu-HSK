@@ -1,0 +1,3242 @@
+{
+  "level": "HSK1",
+  "premium_locked": false,
+  "typing_practice": [
+    {
+      "hanzi": "爱",
+      "pinyin": "ài",
+      "meaning": "yêu, thích",
+      "example": "我会认真学习“爱”。",
+      "examplePinyin": "Wǒ huì rènzhēn xuéxí \"ài\".",
+      "exampleMeaning": "Ví dụ ghi nhớ: yêu, thích",
+      "synonyms": [],
+      "audioText": "爱"
+    },
+    {
+      "hanzi": "八",
+      "pinyin": "bā",
+      "meaning": "số 8",
+      "example": "我会认真学习“八”。",
+      "examplePinyin": "Wǒ huì rènzhēn xuéxí \"bā\".",
+      "exampleMeaning": "Ví dụ ghi nhớ: số 8",
+      "synonyms": [],
+      "audioText": "八"
+    },
+    {
+      "hanzi": "爸爸",
+      "pinyin": "bàba",
+      "meaning": "bố",
+      "example": "我会认真学习“爸爸”。",
+      "examplePinyin": "Wǒ huì rènzhēn xuéxí \"bàba\".",
+      "exampleMeaning": "Ví dụ ghi nhớ: bố",
+      "synonyms": [],
+      "audioText": "爸爸"
+    },
+    {
+      "hanzi": "杯子",
+      "pinyin": "bēizi",
+      "meaning": "cái cốc",
+      "example": "我会认真学习“杯子”。",
+      "examplePinyin": "Wǒ huì rènzhēn xuéxí \"bēizi\".",
+      "exampleMeaning": "Ví dụ ghi nhớ: cái cốc",
+      "synonyms": [],
+      "audioText": "杯子"
+    },
+    {
+      "hanzi": "北京",
+      "pinyin": "Běijīng",
+      "meaning": "Bắc Kinh",
+      "example": "我会认真学习“北京”。",
+      "examplePinyin": "Wǒ huì rènzhēn xuéxí \"Běijīng\".",
+      "exampleMeaning": "Ví dụ ghi nhớ: Bắc Kinh",
+      "synonyms": [],
+      "audioText": "北京"
+    },
+    {
+      "hanzi": "本",
+      "pinyin": "běn",
+      "meaning": "quyển, cuốn",
+      "example": "我会认真学习“本”。",
+      "examplePinyin": "Wǒ huì rènzhēn xuéxí \"běn\".",
+      "exampleMeaning": "Ví dụ ghi nhớ: quyển, cuốn",
+      "synonyms": [],
+      "audioText": "本"
+    },
+    {
+      "hanzi": "不客气",
+      "pinyin": "bú kèqi",
+      "meaning": "không có gì",
+      "example": "我会认真学习“不客气”。",
+      "examplePinyin": "Wǒ huì rènzhēn xuéxí \"bú kèqi\".",
+      "exampleMeaning": "Ví dụ ghi nhớ: không có gì",
+      "synonyms": [],
+      "audioText": "不客气"
+    },
+    {
+      "hanzi": "不",
+      "pinyin": "bù",
+      "meaning": "không",
+      "example": "我会认真学习“不”。",
+      "examplePinyin": "Wǒ huì rènzhēn xuéxí \"bù\".",
+      "exampleMeaning": "Ví dụ ghi nhớ: không",
+      "synonyms": [],
+      "audioText": "不"
+    },
+    {
+      "hanzi": "菜",
+      "pinyin": "cài",
+      "meaning": "món ăn, rau",
+      "example": "我会认真学习“菜”。",
+      "examplePinyin": "Wǒ huì rènzhēn xuéxí \"cài\".",
+      "exampleMeaning": "Ví dụ ghi nhớ: món ăn, rau",
+      "synonyms": [],
+      "audioText": "菜"
+    },
+    {
+      "hanzi": "茶",
+      "pinyin": "chá",
+      "meaning": "trà",
+      "example": "我会认真学习“茶”。",
+      "examplePinyin": "Wǒ huì rènzhēn xuéxí \"chá\".",
+      "exampleMeaning": "Ví dụ ghi nhớ: trà",
+      "synonyms": [],
+      "audioText": "茶"
+    },
+    {
+      "hanzi": "吃",
+      "pinyin": "chī",
+      "meaning": "ăn",
+      "example": "我会认真学习“吃”。",
+      "examplePinyin": "Wǒ huì rènzhēn xuéxí \"chī\".",
+      "exampleMeaning": "Ví dụ ghi nhớ: ăn",
+      "synonyms": [],
+      "audioText": "吃"
+    },
+    {
+      "hanzi": "出租车",
+      "pinyin": "chūzūchē",
+      "meaning": "taxi",
+      "example": "我会认真学习“出租车”。",
+      "examplePinyin": "Wǒ huì rènzhēn xuéxí \"chūzūchē\".",
+      "exampleMeaning": "Ví dụ ghi nhớ: taxi",
+      "synonyms": [],
+      "audioText": "出租车"
+    },
+    {
+      "hanzi": "打电话",
+      "pinyin": "dǎ diànhuà",
+      "meaning": "gọi điện thoại",
+      "example": "我会认真学习“打电话”。",
+      "examplePinyin": "Wǒ huì rènzhēn xuéxí \"dǎ diànhuà\".",
+      "exampleMeaning": "Ví dụ ghi nhớ: gọi điện thoại",
+      "synonyms": [],
+      "audioText": "打电话"
+    },
+    {
+      "hanzi": "大",
+      "pinyin": "dà",
+      "meaning": "to, lớn",
+      "example": "我会认真学习“大”。",
+      "examplePinyin": "Wǒ huì rènzhēn xuéxí \"dà\".",
+      "exampleMeaning": "Ví dụ ghi nhớ: to, lớn",
+      "synonyms": [],
+      "audioText": "大"
+    },
+    {
+      "hanzi": "的",
+      "pinyin": "de",
+      "meaning": "trợ từ sở hữu",
+      "example": "我会认真学习“的”。",
+      "examplePinyin": "Wǒ huì rènzhēn xuéxí \"de\".",
+      "exampleMeaning": "Ví dụ ghi nhớ: trợ từ sở hữu",
+      "synonyms": [],
+      "audioText": "的"
+    },
+    {
+      "hanzi": "点",
+      "pinyin": "diǎn",
+      "meaning": "giờ, chút",
+      "example": "我会认真学习“点”。",
+      "examplePinyin": "Wǒ huì rènzhēn xuéxí \"diǎn\".",
+      "exampleMeaning": "Ví dụ ghi nhớ: giờ, chút",
+      "synonyms": [],
+      "audioText": "点"
+    },
+    {
+      "hanzi": "电脑",
+      "pinyin": "diànnǎo",
+      "meaning": "máy tính",
+      "example": "我会认真学习“电脑”。",
+      "examplePinyin": "Wǒ huì rènzhēn xuéxí \"diànnǎo\".",
+      "exampleMeaning": "Ví dụ ghi nhớ: máy tính",
+      "synonyms": [],
+      "audioText": "电脑"
+    },
+    {
+      "hanzi": "电视",
+      "pinyin": "diànshì",
+      "meaning": "ti vi",
+      "example": "我会认真学习“电视”。",
+      "examplePinyin": "Wǒ huì rènzhēn xuéxí \"diànshì\".",
+      "exampleMeaning": "Ví dụ ghi nhớ: ti vi",
+      "synonyms": [],
+      "audioText": "电视"
+    },
+    {
+      "hanzi": "电影",
+      "pinyin": "diànyǐng",
+      "meaning": "phim",
+      "example": "我会认真学习“电影”。",
+      "examplePinyin": "Wǒ huì rènzhēn xuéxí \"diànyǐng\".",
+      "exampleMeaning": "Ví dụ ghi nhớ: phim",
+      "synonyms": [],
+      "audioText": "电影"
+    },
+    {
+      "hanzi": "东西",
+      "pinyin": "dōngxi",
+      "meaning": "đồ vật",
+      "example": "我会认真学习“东西”。",
+      "examplePinyin": "Wǒ huì rènzhēn xuéxí \"dōngxi\".",
+      "exampleMeaning": "Ví dụ ghi nhớ: đồ vật",
+      "synonyms": [],
+      "audioText": "东西"
+    },
+    {
+      "hanzi": "都",
+      "pinyin": "dōu",
+      "meaning": "đều",
+      "example": "我会认真学习“都”。",
+      "examplePinyin": "Wǒ huì rènzhēn xuéxí \"dōu\".",
+      "exampleMeaning": "Ví dụ ghi nhớ: đều",
+      "synonyms": [],
+      "audioText": "都"
+    },
+    {
+      "hanzi": "读",
+      "pinyin": "dú",
+      "meaning": "đọc",
+      "example": "我会认真学习“读”。",
+      "examplePinyin": "Wǒ huì rènzhēn xuéxí \"dú\".",
+      "exampleMeaning": "Ví dụ ghi nhớ: đọc",
+      "synonyms": [],
+      "audioText": "读"
+    },
+    {
+      "hanzi": "对不起",
+      "pinyin": "duìbuqǐ",
+      "meaning": "xin lỗi",
+      "example": "我会认真学习“对不起”。",
+      "examplePinyin": "Wǒ huì rènzhēn xuéxí \"duìbuqǐ\".",
+      "exampleMeaning": "Ví dụ ghi nhớ: xin lỗi",
+      "synonyms": [],
+      "audioText": "对不起"
+    },
+    {
+      "hanzi": "多",
+      "pinyin": "duō",
+      "meaning": "nhiều",
+      "example": "我会认真学习“多”。",
+      "examplePinyin": "Wǒ huì rènzhēn xuéxí \"duō\".",
+      "exampleMeaning": "Ví dụ ghi nhớ: nhiều",
+      "synonyms": [],
+      "audioText": "多"
+    },
+    {
+      "hanzi": "多少",
+      "pinyin": "duōshao",
+      "meaning": "bao nhiêu",
+      "example": "我会认真学习“多少”。",
+      "examplePinyin": "Wǒ huì rènzhēn xuéxí \"duōshao\".",
+      "exampleMeaning": "Ví dụ ghi nhớ: bao nhiêu",
+      "synonyms": [],
+      "audioText": "多少"
+    },
+    {
+      "hanzi": "儿子",
+      "pinyin": "érzi",
+      "meaning": "con trai",
+      "example": "我会认真学习“儿子”。",
+      "examplePinyin": "Wǒ huì rènzhēn xuéxí \"érzi\".",
+      "exampleMeaning": "Ví dụ ghi nhớ: con trai",
+      "synonyms": [],
+      "audioText": "儿子"
+    },
+    {
+      "hanzi": "二",
+      "pinyin": "èr",
+      "meaning": "số 2",
+      "example": "我会认真学习“二”。",
+      "examplePinyin": "Wǒ huì rènzhēn xuéxí \"èr\".",
+      "exampleMeaning": "Ví dụ ghi nhớ: số 2",
+      "synonyms": [],
+      "audioText": "二"
+    },
+    {
+      "hanzi": "饭店",
+      "pinyin": "fàndiàn",
+      "meaning": "nhà hàng",
+      "example": "我会认真学习“饭店”。",
+      "examplePinyin": "Wǒ huì rènzhēn xuéxí \"fàndiàn\".",
+      "exampleMeaning": "Ví dụ ghi nhớ: nhà hàng",
+      "synonyms": [],
+      "audioText": "饭店"
+    },
+    {
+      "hanzi": "飞机",
+      "pinyin": "fēijī",
+      "meaning": "máy bay",
+      "example": "我会认真学习“飞机”。",
+      "examplePinyin": "Wǒ huì rènzhēn xuéxí \"fēijī\".",
+      "exampleMeaning": "Ví dụ ghi nhớ: máy bay",
+      "synonyms": [],
+      "audioText": "飞机"
+    },
+    {
+      "hanzi": "分钟",
+      "pinyin": "fēnzhōng",
+      "meaning": "phút",
+      "example": "我会认真学习“分钟”。",
+      "examplePinyin": "Wǒ huì rènzhēn xuéxí \"fēnzhōng\".",
+      "exampleMeaning": "Ví dụ ghi nhớ: phút",
+      "synonyms": [],
+      "audioText": "分钟"
+    },
+    {
+      "hanzi": "高兴",
+      "pinyin": "gāoxìng",
+      "meaning": "vui",
+      "example": "我会认真学习“高兴”。",
+      "examplePinyin": "Wǒ huì rènzhēn xuéxí \"gāoxìng\".",
+      "exampleMeaning": "Ví dụ ghi nhớ: vui",
+      "synonyms": [],
+      "audioText": "高兴"
+    },
+    {
+      "hanzi": "个",
+      "pinyin": "gè",
+      "meaning": "lượng từ phổ biến",
+      "example": "我会认真学习“个”。",
+      "examplePinyin": "Wǒ huì rènzhēn xuéxí \"gè\".",
+      "exampleMeaning": "Ví dụ ghi nhớ: lượng từ phổ biến",
+      "synonyms": [],
+      "audioText": "个"
+    },
+    {
+      "hanzi": "工作",
+      "pinyin": "gōngzuò",
+      "meaning": "công việc",
+      "example": "我会认真学习“工作”。",
+      "examplePinyin": "Wǒ huì rènzhēn xuéxí \"gōngzuò\".",
+      "exampleMeaning": "Ví dụ ghi nhớ: công việc",
+      "synonyms": [],
+      "audioText": "工作"
+    },
+    {
+      "hanzi": "狗",
+      "pinyin": "gǒu",
+      "meaning": "chó",
+      "example": "我会认真学习“狗”。",
+      "examplePinyin": "Wǒ huì rènzhēn xuéxí \"gǒu\".",
+      "exampleMeaning": "Ví dụ ghi nhớ: chó",
+      "synonyms": [],
+      "audioText": "狗"
+    },
+    {
+      "hanzi": "汉语",
+      "pinyin": "Hànyǔ",
+      "meaning": "tiếng Trung",
+      "example": "我会认真学习“汉语”。",
+      "examplePinyin": "Wǒ huì rènzhēn xuéxí \"Hànyǔ\".",
+      "exampleMeaning": "Ví dụ ghi nhớ: tiếng Trung",
+      "synonyms": [],
+      "audioText": "汉语"
+    },
+    {
+      "hanzi": "好",
+      "pinyin": "hǎo",
+      "meaning": "tốt",
+      "example": "我会认真学习“好”。",
+      "examplePinyin": "Wǒ huì rènzhēn xuéxí \"hǎo\".",
+      "exampleMeaning": "Ví dụ ghi nhớ: tốt",
+      "synonyms": [],
+      "audioText": "好"
+    },
+    {
+      "hanzi": "号",
+      "pinyin": "hào",
+      "meaning": "ngày, số",
+      "example": "我会认真学习“号”。",
+      "examplePinyin": "Wǒ huì rènzhēn xuéxí \"hào\".",
+      "exampleMeaning": "Ví dụ ghi nhớ: ngày, số",
+      "synonyms": [],
+      "audioText": "号"
+    },
+    {
+      "hanzi": "喝",
+      "pinyin": "hē",
+      "meaning": "uống",
+      "example": "我会认真学习“喝”。",
+      "examplePinyin": "Wǒ huì rènzhēn xuéxí \"hē\".",
+      "exampleMeaning": "Ví dụ ghi nhớ: uống",
+      "synonyms": [],
+      "audioText": "喝"
+    },
+    {
+      "hanzi": "和",
+      "pinyin": "hé",
+      "meaning": "và",
+      "example": "我会认真学习“和”。",
+      "examplePinyin": "Wǒ huì rènzhēn xuéxí \"hé\".",
+      "exampleMeaning": "Ví dụ ghi nhớ: và",
+      "synonyms": [],
+      "audioText": "和"
+    },
+    {
+      "hanzi": "很",
+      "pinyin": "hěn",
+      "meaning": "rất",
+      "example": "我会认真学习“很”。",
+      "examplePinyin": "Wǒ huì rènzhēn xuéxí \"hěn\".",
+      "exampleMeaning": "Ví dụ ghi nhớ: rất",
+      "synonyms": [],
+      "audioText": "很"
+    },
+    {
+      "hanzi": "后面",
+      "pinyin": "hòumiàn",
+      "meaning": "phía sau",
+      "example": "我会认真学习“后面”。",
+      "examplePinyin": "Wǒ huì rènzhēn xuéxí \"hòumiàn\".",
+      "exampleMeaning": "Ví dụ ghi nhớ: phía sau",
+      "synonyms": [],
+      "audioText": "后面"
+    },
+    {
+      "hanzi": "回",
+      "pinyin": "huí",
+      "meaning": "trở về",
+      "example": "我会认真学习“回”。",
+      "examplePinyin": "Wǒ huì rènzhēn xuéxí \"huí\".",
+      "exampleMeaning": "Ví dụ ghi nhớ: trở về",
+      "synonyms": [],
+      "audioText": "回"
+    },
+    {
+      "hanzi": "会",
+      "pinyin": "huì",
+      "meaning": "biết, sẽ",
+      "example": "我会认真学习“会”。",
+      "examplePinyin": "Wǒ huì rènzhēn xuéxí \"huì\".",
+      "exampleMeaning": "Ví dụ ghi nhớ: biết, sẽ",
+      "synonyms": [],
+      "audioText": "会"
+    },
+    {
+      "hanzi": "几",
+      "pinyin": "jǐ",
+      "meaning": "mấy",
+      "example": "我会认真学习“几”。",
+      "examplePinyin": "Wǒ huì rènzhēn xuéxí \"jǐ\".",
+      "exampleMeaning": "Ví dụ ghi nhớ: mấy",
+      "synonyms": [],
+      "audioText": "几"
+    },
+    {
+      "hanzi": "家",
+      "pinyin": "jiā",
+      "meaning": "nhà, gia đình",
+      "example": "我会认真学习“家”。",
+      "examplePinyin": "Wǒ huì rènzhēn xuéxí \"jiā\".",
+      "exampleMeaning": "Ví dụ ghi nhớ: nhà, gia đình",
+      "synonyms": [],
+      "audioText": "家"
+    },
+    {
+      "hanzi": "叫",
+      "pinyin": "jiào",
+      "meaning": "gọi là",
+      "example": "我会认真学习“叫”。",
+      "examplePinyin": "Wǒ huì rènzhēn xuéxí \"jiào\".",
+      "exampleMeaning": "Ví dụ ghi nhớ: gọi là",
+      "synonyms": [],
+      "audioText": "叫"
+    },
+    {
+      "hanzi": "今天",
+      "pinyin": "jīntiān",
+      "meaning": "hôm nay",
+      "example": "我会认真学习“今天”。",
+      "examplePinyin": "Wǒ huì rènzhēn xuéxí \"jīntiān\".",
+      "exampleMeaning": "Ví dụ ghi nhớ: hôm nay",
+      "synonyms": [],
+      "audioText": "今天"
+    },
+    {
+      "hanzi": "九",
+      "pinyin": "jiǔ",
+      "meaning": "số 9",
+      "example": "我会认真学习“九”。",
+      "examplePinyin": "Wǒ huì rènzhēn xuéxí \"jiǔ\".",
+      "exampleMeaning": "Ví dụ ghi nhớ: số 9",
+      "synonyms": [],
+      "audioText": "九"
+    },
+    {
+      "hanzi": "开",
+      "pinyin": "kāi",
+      "meaning": "mở",
+      "example": "我会认真学习“开”。",
+      "examplePinyin": "Wǒ huì rènzhēn xuéxí \"kāi\".",
+      "exampleMeaning": "Ví dụ ghi nhớ: mở",
+      "synonyms": [],
+      "audioText": "开"
+    },
+    {
+      "hanzi": "看",
+      "pinyin": "kàn",
+      "meaning": "nhìn, xem",
+      "example": "我会认真学习“看”。",
+      "examplePinyin": "Wǒ huì rènzhēn xuéxí \"kàn\".",
+      "exampleMeaning": "Ví dụ ghi nhớ: nhìn, xem",
+      "synonyms": [],
+      "audioText": "看"
+    },
+    {
+      "hanzi": "看见",
+      "pinyin": "kànjiàn",
+      "meaning": "trông thấy",
+      "example": "我会认真学习“看见”。",
+      "examplePinyin": "Wǒ huì rènzhēn xuéxí \"kànjiàn\".",
+      "exampleMeaning": "Ví dụ ghi nhớ: trông thấy",
+      "synonyms": [],
+      "audioText": "看见"
+    },
+    {
+      "hanzi": "块",
+      "pinyin": "kuài",
+      "meaning": "đồng, miếng",
+      "example": "我会认真学习“块”。",
+      "examplePinyin": "Wǒ huì rènzhēn xuéxí \"kuài\".",
+      "exampleMeaning": "Ví dụ ghi nhớ: đồng, miếng",
+      "synonyms": [],
+      "audioText": "块"
+    },
+    {
+      "hanzi": "来",
+      "pinyin": "lái",
+      "meaning": "đến",
+      "example": "我会认真学习“来”。",
+      "examplePinyin": "Wǒ huì rènzhēn xuéxí \"lái\".",
+      "exampleMeaning": "Ví dụ ghi nhớ: đến",
+      "synonyms": [],
+      "audioText": "来"
+    },
+    {
+      "hanzi": "老师",
+      "pinyin": "lǎoshī",
+      "meaning": "giáo viên",
+      "example": "我会认真学习“老师”。",
+      "examplePinyin": "Wǒ huì rènzhēn xuéxí \"lǎoshī\".",
+      "exampleMeaning": "Ví dụ ghi nhớ: giáo viên",
+      "synonyms": [],
+      "audioText": "老师"
+    },
+    {
+      "hanzi": "了",
+      "pinyin": "le",
+      "meaning": "trợ từ hoàn thành",
+      "example": "我会认真学习“了”。",
+      "examplePinyin": "Wǒ huì rènzhēn xuéxí \"le\".",
+      "exampleMeaning": "Ví dụ ghi nhớ: trợ từ hoàn thành",
+      "synonyms": [],
+      "audioText": "了"
+    },
+    {
+      "hanzi": "冷",
+      "pinyin": "lěng",
+      "meaning": "lạnh",
+      "example": "我会认真学习“冷”。",
+      "examplePinyin": "Wǒ huì rènzhēn xuéxí \"lěng\".",
+      "exampleMeaning": "Ví dụ ghi nhớ: lạnh",
+      "synonyms": [],
+      "audioText": "冷"
+    },
+    {
+      "hanzi": "里",
+      "pinyin": "lǐ",
+      "meaning": "bên trong",
+      "example": "我会认真学习“里”。",
+      "examplePinyin": "Wǒ huì rènzhēn xuéxí \"lǐ\".",
+      "exampleMeaning": "Ví dụ ghi nhớ: bên trong",
+      "synonyms": [],
+      "audioText": "里"
+    },
+    {
+      "hanzi": "零",
+      "pinyin": "líng",
+      "meaning": "số 0",
+      "example": "我会认真学习“零”。",
+      "examplePinyin": "Wǒ huì rènzhēn xuéxí \"líng\".",
+      "exampleMeaning": "Ví dụ ghi nhớ: số 0",
+      "synonyms": [],
+      "audioText": "零"
+    },
+    {
+      "hanzi": "六",
+      "pinyin": "liù",
+      "meaning": "số 6",
+      "example": "我会认真学习“六”。",
+      "examplePinyin": "Wǒ huì rènzhēn xuéxí \"liù\".",
+      "exampleMeaning": "Ví dụ ghi nhớ: số 6",
+      "synonyms": [],
+      "audioText": "六"
+    },
+    {
+      "hanzi": "妈妈",
+      "pinyin": "māma",
+      "meaning": "mẹ",
+      "example": "我会认真学习“妈妈”。",
+      "examplePinyin": "Wǒ huì rènzhēn xuéxí \"māma\".",
+      "exampleMeaning": "Ví dụ ghi nhớ: mẹ",
+      "synonyms": [],
+      "audioText": "妈妈"
+    },
+    {
+      "hanzi": "吗",
+      "pinyin": "ma",
+      "meaning": "trợ từ nghi vấn",
+      "example": "我会认真学习“吗”。",
+      "examplePinyin": "Wǒ huì rènzhēn xuéxí \"ma\".",
+      "exampleMeaning": "Ví dụ ghi nhớ: trợ từ nghi vấn",
+      "synonyms": [],
+      "audioText": "吗"
+    },
+    {
+      "hanzi": "买",
+      "pinyin": "mǎi",
+      "meaning": "mua",
+      "example": "我会认真学习“买”。",
+      "examplePinyin": "Wǒ huì rènzhēn xuéxí \"mǎi\".",
+      "exampleMeaning": "Ví dụ ghi nhớ: mua",
+      "synonyms": [],
+      "audioText": "买"
+    },
+    {
+      "hanzi": "猫",
+      "pinyin": "māo",
+      "meaning": "mèo",
+      "example": "我会认真学习“猫”。",
+      "examplePinyin": "Wǒ huì rènzhēn xuéxí \"māo\".",
+      "exampleMeaning": "Ví dụ ghi nhớ: mèo",
+      "synonyms": [],
+      "audioText": "猫"
+    },
+    {
+      "hanzi": "没关系",
+      "pinyin": "méiguānxi",
+      "meaning": "không sao",
+      "example": "我会认真学习“没关系”。",
+      "examplePinyin": "Wǒ huì rènzhēn xuéxí \"méiguānxi\".",
+      "exampleMeaning": "Ví dụ ghi nhớ: không sao",
+      "synonyms": [],
+      "audioText": "没关系"
+    },
+    {
+      "hanzi": "没有",
+      "pinyin": "méiyǒu",
+      "meaning": "không có",
+      "example": "我会认真学习“没有”。",
+      "examplePinyin": "Wǒ huì rènzhēn xuéxí \"méiyǒu\".",
+      "exampleMeaning": "Ví dụ ghi nhớ: không có",
+      "synonyms": [],
+      "audioText": "没有"
+    },
+    {
+      "hanzi": "米饭",
+      "pinyin": "mǐfàn",
+      "meaning": "cơm",
+      "example": "我会认真学习“米饭”。",
+      "examplePinyin": "Wǒ huì rènzhēn xuéxí \"mǐfàn\".",
+      "exampleMeaning": "Ví dụ ghi nhớ: cơm",
+      "synonyms": [],
+      "audioText": "米饭"
+    },
+    {
+      "hanzi": "名字",
+      "pinyin": "míngzi",
+      "meaning": "tên",
+      "example": "我会认真学习“名字”。",
+      "examplePinyin": "Wǒ huì rènzhēn xuéxí \"míngzi\".",
+      "exampleMeaning": "Ví dụ ghi nhớ: tên",
+      "synonyms": [],
+      "audioText": "名字"
+    },
+    {
+      "hanzi": "明天",
+      "pinyin": "míngtiān",
+      "meaning": "ngày mai",
+      "example": "我会认真学习“明天”。",
+      "examplePinyin": "Wǒ huì rènzhēn xuéxí \"míngtiān\".",
+      "exampleMeaning": "Ví dụ ghi nhớ: ngày mai",
+      "synonyms": [],
+      "audioText": "明天"
+    },
+    {
+      "hanzi": "哪",
+      "pinyin": "nǎ",
+      "meaning": "nào",
+      "example": "我会认真学习“哪”。",
+      "examplePinyin": "Wǒ huì rènzhēn xuéxí \"nǎ\".",
+      "exampleMeaning": "Ví dụ ghi nhớ: nào",
+      "synonyms": [],
+      "audioText": "哪"
+    },
+    {
+      "hanzi": "哪儿",
+      "pinyin": "nǎr",
+      "meaning": "ở đâu",
+      "example": "我会认真学习“哪儿”。",
+      "examplePinyin": "Wǒ huì rènzhēn xuéxí \"nǎr\".",
+      "exampleMeaning": "Ví dụ ghi nhớ: ở đâu",
+      "synonyms": [],
+      "audioText": "哪儿"
+    },
+    {
+      "hanzi": "那",
+      "pinyin": "nà",
+      "meaning": "kia, đó",
+      "example": "我会认真学习“那”。",
+      "examplePinyin": "Wǒ huì rènzhēn xuéxí \"nà\".",
+      "exampleMeaning": "Ví dụ ghi nhớ: kia, đó",
+      "synonyms": [],
+      "audioText": "那"
+    },
+    {
+      "hanzi": "呢",
+      "pinyin": "ne",
+      "meaning": "trợ từ ngữ khí",
+      "example": "我会认真学习“呢”。",
+      "examplePinyin": "Wǒ huì rènzhēn xuéxí \"ne\".",
+      "exampleMeaning": "Ví dụ ghi nhớ: trợ từ ngữ khí",
+      "synonyms": [],
+      "audioText": "呢"
+    },
+    {
+      "hanzi": "能",
+      "pinyin": "néng",
+      "meaning": "có thể",
+      "example": "我会认真学习“能”。",
+      "examplePinyin": "Wǒ huì rènzhēn xuéxí \"néng\".",
+      "exampleMeaning": "Ví dụ ghi nhớ: có thể",
+      "synonyms": [],
+      "audioText": "能"
+    },
+    {
+      "hanzi": "你",
+      "pinyin": "nǐ",
+      "meaning": "bạn",
+      "example": "我会认真学习“你”。",
+      "examplePinyin": "Wǒ huì rènzhēn xuéxí \"nǐ\".",
+      "exampleMeaning": "Ví dụ ghi nhớ: bạn",
+      "synonyms": [],
+      "audioText": "你"
+    },
+    {
+      "hanzi": "年",
+      "pinyin": "nián",
+      "meaning": "năm",
+      "example": "我会认真学习“年”。",
+      "examplePinyin": "Wǒ huì rènzhēn xuéxí \"nián\".",
+      "exampleMeaning": "Ví dụ ghi nhớ: năm",
+      "synonyms": [],
+      "audioText": "年"
+    },
+    {
+      "hanzi": "女儿",
+      "pinyin": "nǚ'ér",
+      "meaning": "con gái",
+      "example": "我会认真学习“女儿”。",
+      "examplePinyin": "Wǒ huì rènzhēn xuéxí \"nǚ'ér\".",
+      "exampleMeaning": "Ví dụ ghi nhớ: con gái",
+      "synonyms": [],
+      "audioText": "女儿"
+    },
+    {
+      "hanzi": "朋友",
+      "pinyin": "péngyou",
+      "meaning": "bạn bè",
+      "example": "我会认真学习“朋友”。",
+      "examplePinyin": "Wǒ huì rènzhēn xuéxí \"péngyou\".",
+      "exampleMeaning": "Ví dụ ghi nhớ: bạn bè",
+      "synonyms": [],
+      "audioText": "朋友"
+    },
+    {
+      "hanzi": "漂亮",
+      "pinyin": "piàoliang",
+      "meaning": "xinh đẹp",
+      "example": "我会认真学习“漂亮”。",
+      "examplePinyin": "Wǒ huì rènzhēn xuéxí \"piàoliang\".",
+      "exampleMeaning": "Ví dụ ghi nhớ: xinh đẹp",
+      "synonyms": [],
+      "audioText": "漂亮"
+    },
+    {
+      "hanzi": "苹果",
+      "pinyin": "píngguǒ",
+      "meaning": "táo",
+      "example": "我会认真学习“苹果”。",
+      "examplePinyin": "Wǒ huì rènzhēn xuéxí \"píngguǒ\".",
+      "exampleMeaning": "Ví dụ ghi nhớ: táo",
+      "synonyms": [],
+      "audioText": "苹果"
+    },
+    {
+      "hanzi": "七",
+      "pinyin": "qī",
+      "meaning": "số 7",
+      "example": "我会认真学习“七”。",
+      "examplePinyin": "Wǒ huì rènzhēn xuéxí \"qī\".",
+      "exampleMeaning": "Ví dụ ghi nhớ: số 7",
+      "synonyms": [],
+      "audioText": "七"
+    },
+    {
+      "hanzi": "钱",
+      "pinyin": "qián",
+      "meaning": "tiền",
+      "example": "我会认真学习“钱”。",
+      "examplePinyin": "Wǒ huì rènzhēn xuéxí \"qián\".",
+      "exampleMeaning": "Ví dụ ghi nhớ: tiền",
+      "synonyms": [],
+      "audioText": "钱"
+    },
+    {
+      "hanzi": "前面",
+      "pinyin": "qiánmiàn",
+      "meaning": "phía trước",
+      "example": "我会认真学习“前面”。",
+      "examplePinyin": "Wǒ huì rènzhēn xuéxí \"qiánmiàn\".",
+      "exampleMeaning": "Ví dụ ghi nhớ: phía trước",
+      "synonyms": [],
+      "audioText": "前面"
+    },
+    {
+      "hanzi": "请",
+      "pinyin": "qǐng",
+      "meaning": "mời",
+      "example": "我会认真学习“请”。",
+      "examplePinyin": "Wǒ huì rènzhēn xuéxí \"qǐng\".",
+      "exampleMeaning": "Ví dụ ghi nhớ: mời",
+      "synonyms": [],
+      "audioText": "请"
+    },
+    {
+      "hanzi": "去",
+      "pinyin": "qù",
+      "meaning": "đi",
+      "example": "我会认真学习“去”。",
+      "examplePinyin": "Wǒ huì rènzhēn xuéxí \"qù\".",
+      "exampleMeaning": "Ví dụ ghi nhớ: đi",
+      "synonyms": [],
+      "audioText": "去"
+    },
+    {
+      "hanzi": "热",
+      "pinyin": "rè",
+      "meaning": "nóng",
+      "example": "我会认真学习“热”。",
+      "examplePinyin": "Wǒ huì rènzhēn xuéxí \"rè\".",
+      "exampleMeaning": "Ví dụ ghi nhớ: nóng",
+      "synonyms": [],
+      "audioText": "热"
+    },
+    {
+      "hanzi": "人",
+      "pinyin": "rén",
+      "meaning": "người",
+      "example": "我会认真学习“人”。",
+      "examplePinyin": "Wǒ huì rènzhēn xuéxí \"rén\".",
+      "exampleMeaning": "Ví dụ ghi nhớ: người",
+      "synonyms": [],
+      "audioText": "人"
+    },
+    {
+      "hanzi": "认识",
+      "pinyin": "rènshi",
+      "meaning": "quen, biết",
+      "example": "我会认真学习“认识”。",
+      "examplePinyin": "Wǒ huì rènzhēn xuéxí \"rènshi\".",
+      "exampleMeaning": "Ví dụ ghi nhớ: quen, biết",
+      "synonyms": [],
+      "audioText": "认识"
+    },
+    {
+      "hanzi": "三",
+      "pinyin": "sān",
+      "meaning": "số 3",
+      "example": "我会认真学习“三”。",
+      "examplePinyin": "Wǒ huì rènzhēn xuéxí \"sān\".",
+      "exampleMeaning": "Ví dụ ghi nhớ: số 3",
+      "synonyms": [],
+      "audioText": "三"
+    },
+    {
+      "hanzi": "商店",
+      "pinyin": "shāngdiàn",
+      "meaning": "cửa hàng",
+      "example": "我会认真学习“商店”。",
+      "examplePinyin": "Wǒ huì rènzhēn xuéxí \"shāngdiàn\".",
+      "exampleMeaning": "Ví dụ ghi nhớ: cửa hàng",
+      "synonyms": [],
+      "audioText": "商店"
+    },
+    {
+      "hanzi": "上",
+      "pinyin": "shàng",
+      "meaning": "trên",
+      "example": "我会认真学习“上”。",
+      "examplePinyin": "Wǒ huì rènzhēn xuéxí \"shàng\".",
+      "exampleMeaning": "Ví dụ ghi nhớ: trên",
+      "synonyms": [],
+      "audioText": "上"
+    },
+    {
+      "hanzi": "上午",
+      "pinyin": "shàngwǔ",
+      "meaning": "buổi sáng",
+      "example": "我会认真学习“上午”。",
+      "examplePinyin": "Wǒ huì rènzhēn xuéxí \"shàngwǔ\".",
+      "exampleMeaning": "Ví dụ ghi nhớ: buổi sáng",
+      "synonyms": [],
+      "audioText": "上午"
+    },
+    {
+      "hanzi": "少",
+      "pinyin": "shǎo",
+      "meaning": "ít",
+      "example": "我会认真学习“少”。",
+      "examplePinyin": "Wǒ huì rènzhēn xuéxí \"shǎo\".",
+      "exampleMeaning": "Ví dụ ghi nhớ: ít",
+      "synonyms": [],
+      "audioText": "少"
+    },
+    {
+      "hanzi": "谁",
+      "pinyin": "shéi",
+      "meaning": "ai",
+      "example": "我会认真学习“谁”。",
+      "examplePinyin": "Wǒ huì rènzhēn xuéxí \"shéi\".",
+      "exampleMeaning": "Ví dụ ghi nhớ: ai",
+      "synonyms": [],
+      "audioText": "谁"
+    },
+    {
+      "hanzi": "什么",
+      "pinyin": "shénme",
+      "meaning": "cái gì",
+      "example": "我会认真学习“什么”。",
+      "examplePinyin": "Wǒ huì rènzhēn xuéxí \"shénme\".",
+      "exampleMeaning": "Ví dụ ghi nhớ: cái gì",
+      "synonyms": [],
+      "audioText": "什么"
+    },
+    {
+      "hanzi": "十",
+      "pinyin": "shí",
+      "meaning": "số 10",
+      "example": "我会认真学习“十”。",
+      "examplePinyin": "Wǒ huì rènzhēn xuéxí \"shí\".",
+      "exampleMeaning": "Ví dụ ghi nhớ: số 10",
+      "synonyms": [],
+      "audioText": "十"
+    },
+    {
+      "hanzi": "时候",
+      "pinyin": "shíhou",
+      "meaning": "lúc, thời gian",
+      "example": "我会认真学习“时候”。",
+      "examplePinyin": "Wǒ huì rènzhēn xuéxí \"shíhou\".",
+      "exampleMeaning": "Ví dụ ghi nhớ: lúc, thời gian",
+      "synonyms": [],
+      "audioText": "时候"
+    },
+    {
+      "hanzi": "是",
+      "pinyin": "shì",
+      "meaning": "là",
+      "example": "我会认真学习“是”。",
+      "examplePinyin": "Wǒ huì rènzhēn xuéxí \"shì\".",
+      "exampleMeaning": "Ví dụ ghi nhớ: là",
+      "synonyms": [],
+      "audioText": "是"
+    },
+    {
+      "hanzi": "书",
+      "pinyin": "shū",
+      "meaning": "sách",
+      "example": "我会认真学习“书”。",
+      "examplePinyin": "Wǒ huì rènzhēn xuéxí \"shū\".",
+      "exampleMeaning": "Ví dụ ghi nhớ: sách",
+      "synonyms": [],
+      "audioText": "书"
+    },
+    {
+      "hanzi": "水",
+      "pinyin": "shuǐ",
+      "meaning": "nước",
+      "example": "我会认真学习“水”。",
+      "examplePinyin": "Wǒ huì rènzhēn xuéxí \"shuǐ\".",
+      "exampleMeaning": "Ví dụ ghi nhớ: nước",
+      "synonyms": [],
+      "audioText": "水"
+    },
+    {
+      "hanzi": "水果",
+      "pinyin": "shuǐguǒ",
+      "meaning": "trái cây",
+      "example": "我会认真学习“水果”。",
+      "examplePinyin": "Wǒ huì rènzhēn xuéxí \"shuǐguǒ\".",
+      "exampleMeaning": "Ví dụ ghi nhớ: trái cây",
+      "synonyms": [],
+      "audioText": "水果"
+    },
+    {
+      "hanzi": "睡觉",
+      "pinyin": "shuìjiào",
+      "meaning": "ngủ",
+      "example": "我会认真学习“睡觉”。",
+      "examplePinyin": "Wǒ huì rènzhēn xuéxí \"shuìjiào\".",
+      "exampleMeaning": "Ví dụ ghi nhớ: ngủ",
+      "synonyms": [],
+      "audioText": "睡觉"
+    },
+    {
+      "hanzi": "说",
+      "pinyin": "shuō",
+      "meaning": "nói",
+      "example": "我会认真学习“说”。",
+      "examplePinyin": "Wǒ huì rènzhēn xuéxí \"shuō\".",
+      "exampleMeaning": "Ví dụ ghi nhớ: nói",
+      "synonyms": [],
+      "audioText": "说"
+    },
+    {
+      "hanzi": "四",
+      "pinyin": "sì",
+      "meaning": "số 4",
+      "example": "我会认真学习“四”。",
+      "examplePinyin": "Wǒ huì rènzhēn xuéxí \"sì\".",
+      "exampleMeaning": "Ví dụ ghi nhớ: số 4",
+      "synonyms": [],
+      "audioText": "四"
+    },
+    {
+      "hanzi": "岁",
+      "pinyin": "suì",
+      "meaning": "tuổi",
+      "example": "我会认真学习“岁”。",
+      "examplePinyin": "Wǒ huì rènzhēn xuéxí \"suì\".",
+      "exampleMeaning": "Ví dụ ghi nhớ: tuổi",
+      "synonyms": [],
+      "audioText": "岁"
+    },
+    {
+      "hanzi": "他",
+      "pinyin": "tā",
+      "meaning": "anh ấy",
+      "example": "我会认真学习“他”。",
+      "examplePinyin": "Wǒ huì rènzhēn xuéxí \"tā\".",
+      "exampleMeaning": "Ví dụ ghi nhớ: anh ấy",
+      "synonyms": [],
+      "audioText": "他"
+    },
+    {
+      "hanzi": "她",
+      "pinyin": "tā",
+      "meaning": "cô ấy",
+      "example": "我会认真学习“她”。",
+      "examplePinyin": "Wǒ huì rènzhēn xuéxí \"tā\".",
+      "exampleMeaning": "Ví dụ ghi nhớ: cô ấy",
+      "synonyms": [],
+      "audioText": "她"
+    },
+    {
+      "hanzi": "太",
+      "pinyin": "tài",
+      "meaning": "quá",
+      "example": "我会认真学习“太”。",
+      "examplePinyin": "Wǒ huì rènzhēn xuéxí \"tài\".",
+      "exampleMeaning": "Ví dụ ghi nhớ: quá",
+      "synonyms": [],
+      "audioText": "太"
+    },
+    {
+      "hanzi": "天气",
+      "pinyin": "tiānqì",
+      "meaning": "thời tiết",
+      "example": "我会认真学习“天气”。",
+      "examplePinyin": "Wǒ huì rènzhēn xuéxí \"tiānqì\".",
+      "exampleMeaning": "Ví dụ ghi nhớ: thời tiết",
+      "synonyms": [],
+      "audioText": "天气"
+    },
+    {
+      "hanzi": "听",
+      "pinyin": "tīng",
+      "meaning": "nghe",
+      "example": "我会认真学习“听”。",
+      "examplePinyin": "Wǒ huì rènzhēn xuéxí \"tīng\".",
+      "exampleMeaning": "Ví dụ ghi nhớ: nghe",
+      "synonyms": [],
+      "audioText": "听"
+    },
+    {
+      "hanzi": "同学",
+      "pinyin": "tóngxué",
+      "meaning": "bạn học",
+      "example": "我会认真学习“同学”。",
+      "examplePinyin": "Wǒ huì rènzhēn xuéxí \"tóngxué\".",
+      "exampleMeaning": "Ví dụ ghi nhớ: bạn học",
+      "synonyms": [],
+      "audioText": "同学"
+    },
+    {
+      "hanzi": "喂",
+      "pinyin": "wèi",
+      "meaning": "a lô",
+      "example": "我会认真学习“喂”。",
+      "examplePinyin": "Wǒ huì rènzhēn xuéxí \"wèi\".",
+      "exampleMeaning": "Ví dụ ghi nhớ: a lô",
+      "synonyms": [],
+      "audioText": "喂"
+    },
+    {
+      "hanzi": "我",
+      "pinyin": "wǒ",
+      "meaning": "tôi",
+      "example": "我会认真学习“我”。",
+      "examplePinyin": "Wǒ huì rènzhēn xuéxí \"wǒ\".",
+      "exampleMeaning": "Ví dụ ghi nhớ: tôi",
+      "synonyms": [],
+      "audioText": "我"
+    },
+    {
+      "hanzi": "我们",
+      "pinyin": "wǒmen",
+      "meaning": "chúng tôi",
+      "example": "我会认真学习“我们”。",
+      "examplePinyin": "Wǒ huì rènzhēn xuéxí \"wǒmen\".",
+      "exampleMeaning": "Ví dụ ghi nhớ: chúng tôi",
+      "synonyms": [],
+      "audioText": "我们"
+    },
+    {
+      "hanzi": "五",
+      "pinyin": "wǔ",
+      "meaning": "số 5",
+      "example": "我会认真学习“五”。",
+      "examplePinyin": "Wǒ huì rènzhēn xuéxí \"wǔ\".",
+      "exampleMeaning": "Ví dụ ghi nhớ: số 5",
+      "synonyms": [],
+      "audioText": "五"
+    },
+    {
+      "hanzi": "喜欢",
+      "pinyin": "xǐhuan",
+      "meaning": "thích",
+      "example": "我会认真学习“喜欢”。",
+      "examplePinyin": "Wǒ huì rènzhēn xuéxí \"xǐhuan\".",
+      "exampleMeaning": "Ví dụ ghi nhớ: thích",
+      "synonyms": [],
+      "audioText": "喜欢"
+    },
+    {
+      "hanzi": "下",
+      "pinyin": "xià",
+      "meaning": "dưới",
+      "example": "我会认真学习“下”。",
+      "examplePinyin": "Wǒ huì rènzhēn xuéxí \"xià\".",
+      "exampleMeaning": "Ví dụ ghi nhớ: dưới",
+      "synonyms": [],
+      "audioText": "下"
+    },
+    {
+      "hanzi": "下午",
+      "pinyin": "xiàwǔ",
+      "meaning": "buổi chiều",
+      "example": "我会认真学习“下午”。",
+      "examplePinyin": "Wǒ huì rènzhēn xuéxí \"xiàwǔ\".",
+      "exampleMeaning": "Ví dụ ghi nhớ: buổi chiều",
+      "synonyms": [],
+      "audioText": "下午"
+    },
+    {
+      "hanzi": "下雨",
+      "pinyin": "xiàyǔ",
+      "meaning": "mưa",
+      "example": "我会认真学习“下雨”。",
+      "examplePinyin": "Wǒ huì rènzhēn xuéxí \"xiàyǔ\".",
+      "exampleMeaning": "Ví dụ ghi nhớ: mưa",
+      "synonyms": [],
+      "audioText": "下雨"
+    },
+    {
+      "hanzi": "先生",
+      "pinyin": "xiānsheng",
+      "meaning": "ông, ngài",
+      "example": "我会认真学习“先生”。",
+      "examplePinyin": "Wǒ huì rènzhēn xuéxí \"xiānsheng\".",
+      "exampleMeaning": "Ví dụ ghi nhớ: ông, ngài",
+      "synonyms": [],
+      "audioText": "先生"
+    },
+    {
+      "hanzi": "现在",
+      "pinyin": "xiànzài",
+      "meaning": "bây giờ",
+      "example": "我会认真学习“现在”。",
+      "examplePinyin": "Wǒ huì rènzhēn xuéxí \"xiànzài\".",
+      "exampleMeaning": "Ví dụ ghi nhớ: bây giờ",
+      "synonyms": [],
+      "audioText": "现在"
+    },
+    {
+      "hanzi": "想",
+      "pinyin": "xiǎng",
+      "meaning": "muốn, nhớ",
+      "example": "我会认真学习“想”。",
+      "examplePinyin": "Wǒ huì rènzhēn xuéxí \"xiǎng\".",
+      "exampleMeaning": "Ví dụ ghi nhớ: muốn, nhớ",
+      "synonyms": [],
+      "audioText": "想"
+    },
+    {
+      "hanzi": "小",
+      "pinyin": "xiǎo",
+      "meaning": "nhỏ",
+      "example": "我会认真学习“小”。",
+      "examplePinyin": "Wǒ huì rènzhēn xuéxí \"xiǎo\".",
+      "exampleMeaning": "Ví dụ ghi nhớ: nhỏ",
+      "synonyms": [],
+      "audioText": "小"
+    },
+    {
+      "hanzi": "小姐",
+      "pinyin": "xiǎojiě",
+      "meaning": "cô, tiểu thư",
+      "example": "我会认真学习“小姐”。",
+      "examplePinyin": "Wǒ huì rènzhēn xuéxí \"xiǎojiě\".",
+      "exampleMeaning": "Ví dụ ghi nhớ: cô, tiểu thư",
+      "synonyms": [],
+      "audioText": "小姐"
+    },
+    {
+      "hanzi": "些",
+      "pinyin": "xiē",
+      "meaning": "một vài",
+      "example": "我会认真学习“些”。",
+      "examplePinyin": "Wǒ huì rènzhēn xuéxí \"xiē\".",
+      "exampleMeaning": "Ví dụ ghi nhớ: một vài",
+      "synonyms": [],
+      "audioText": "些"
+    },
+    {
+      "hanzi": "写",
+      "pinyin": "xiě",
+      "meaning": "viết",
+      "example": "我会认真学习“写”。",
+      "examplePinyin": "Wǒ huì rènzhēn xuéxí \"xiě\".",
+      "exampleMeaning": "Ví dụ ghi nhớ: viết",
+      "synonyms": [],
+      "audioText": "写"
+    },
+    {
+      "hanzi": "谢谢",
+      "pinyin": "xièxie",
+      "meaning": "cảm ơn",
+      "example": "我会认真学习“谢谢”。",
+      "examplePinyin": "Wǒ huì rènzhēn xuéxí \"xièxie\".",
+      "exampleMeaning": "Ví dụ ghi nhớ: cảm ơn",
+      "synonyms": [],
+      "audioText": "谢谢"
+    },
+    {
+      "hanzi": "星期",
+      "pinyin": "xīngqī",
+      "meaning": "tuần",
+      "example": "我会认真学习“星期”。",
+      "examplePinyin": "Wǒ huì rènzhēn xuéxí \"xīngqī\".",
+      "exampleMeaning": "Ví dụ ghi nhớ: tuần",
+      "synonyms": [],
+      "audioText": "星期"
+    },
+    {
+      "hanzi": "学生",
+      "pinyin": "xuésheng",
+      "meaning": "học sinh",
+      "example": "我会认真学习“学生”。",
+      "examplePinyin": "Wǒ huì rènzhēn xuéxí \"xuésheng\".",
+      "exampleMeaning": "Ví dụ ghi nhớ: học sinh",
+      "synonyms": [],
+      "audioText": "学生"
+    },
+    {
+      "hanzi": "学习",
+      "pinyin": "xuéxí",
+      "meaning": "học",
+      "example": "我会认真学习“学习”。",
+      "examplePinyin": "Wǒ huì rènzhēn xuéxí \"xuéxí\".",
+      "exampleMeaning": "Ví dụ ghi nhớ: học",
+      "synonyms": [],
+      "audioText": "学习"
+    },
+    {
+      "hanzi": "学校",
+      "pinyin": "xuéxiào",
+      "meaning": "trường học",
+      "example": "我会认真学习“学校”。",
+      "examplePinyin": "Wǒ huì rènzhēn xuéxí \"xuéxiào\".",
+      "exampleMeaning": "Ví dụ ghi nhớ: trường học",
+      "synonyms": [],
+      "audioText": "学校"
+    },
+    {
+      "hanzi": "一",
+      "pinyin": "yī",
+      "meaning": "số 1",
+      "example": "我会认真学习“一”。",
+      "examplePinyin": "Wǒ huì rènzhēn xuéxí \"yī\".",
+      "exampleMeaning": "Ví dụ ghi nhớ: số 1",
+      "synonyms": [],
+      "audioText": "一"
+    },
+    {
+      "hanzi": "衣服",
+      "pinyin": "yīfu",
+      "meaning": "quần áo",
+      "example": "我会认真学习“衣服”。",
+      "examplePinyin": "Wǒ huì rènzhēn xuéxí \"yīfu\".",
+      "exampleMeaning": "Ví dụ ghi nhớ: quần áo",
+      "synonyms": [],
+      "audioText": "衣服"
+    },
+    {
+      "hanzi": "医生",
+      "pinyin": "yīshēng",
+      "meaning": "bác sĩ",
+      "example": "我会认真学习“医生”。",
+      "examplePinyin": "Wǒ huì rènzhēn xuéxí \"yīshēng\".",
+      "exampleMeaning": "Ví dụ ghi nhớ: bác sĩ",
+      "synonyms": [],
+      "audioText": "医生"
+    },
+    {
+      "hanzi": "医院",
+      "pinyin": "yīyuàn",
+      "meaning": "bệnh viện",
+      "example": "我会认真学习“医院”。",
+      "examplePinyin": "Wǒ huì rènzhēn xuéxí \"yīyuàn\".",
+      "exampleMeaning": "Ví dụ ghi nhớ: bệnh viện",
+      "synonyms": [],
+      "audioText": "医院"
+    },
+    {
+      "hanzi": "椅子",
+      "pinyin": "yǐzi",
+      "meaning": "cái ghế",
+      "example": "我会认真学习“椅子”。",
+      "examplePinyin": "Wǒ huì rènzhēn xuéxí \"yǐzi\".",
+      "exampleMeaning": "Ví dụ ghi nhớ: cái ghế",
+      "synonyms": [],
+      "audioText": "椅子"
+    },
+    {
+      "hanzi": "有",
+      "pinyin": "yǒu",
+      "meaning": "có",
+      "example": "我会认真学习“有”。",
+      "examplePinyin": "Wǒ huì rènzhēn xuéxí \"yǒu\".",
+      "exampleMeaning": "Ví dụ ghi nhớ: có",
+      "synonyms": [],
+      "audioText": "有"
+    },
+    {
+      "hanzi": "月",
+      "pinyin": "yuè",
+      "meaning": "tháng",
+      "example": "我会认真学习“月”。",
+      "examplePinyin": "Wǒ huì rènzhēn xuéxí \"yuè\".",
+      "exampleMeaning": "Ví dụ ghi nhớ: tháng",
+      "synonyms": [],
+      "audioText": "月"
+    },
+    {
+      "hanzi": "再见",
+      "pinyin": "zàijiàn",
+      "meaning": "tạm biệt",
+      "example": "我会认真学习“再见”。",
+      "examplePinyin": "Wǒ huì rènzhēn xuéxí \"zàijiàn\".",
+      "exampleMeaning": "Ví dụ ghi nhớ: tạm biệt",
+      "synonyms": [],
+      "audioText": "再见"
+    },
+    {
+      "hanzi": "在",
+      "pinyin": "zài",
+      "meaning": "ở, đang",
+      "example": "我会认真学习“在”。",
+      "examplePinyin": "Wǒ huì rènzhēn xuéxí \"zài\".",
+      "exampleMeaning": "Ví dụ ghi nhớ: ở, đang",
+      "synonyms": [],
+      "audioText": "在"
+    },
+    {
+      "hanzi": "怎么",
+      "pinyin": "zěnme",
+      "meaning": "thế nào",
+      "example": "我会认真学习“怎么”。",
+      "examplePinyin": "Wǒ huì rènzhēn xuéxí \"zěnme\".",
+      "exampleMeaning": "Ví dụ ghi nhớ: thế nào",
+      "synonyms": [],
+      "audioText": "怎么"
+    },
+    {
+      "hanzi": "怎么样",
+      "pinyin": "zěnmeyàng",
+      "meaning": "ra sao",
+      "example": "我会认真学习“怎么样”。",
+      "examplePinyin": "Wǒ huì rènzhēn xuéxí \"zěnmeyàng\".",
+      "exampleMeaning": "Ví dụ ghi nhớ: ra sao",
+      "synonyms": [],
+      "audioText": "怎么样"
+    },
+    {
+      "hanzi": "这",
+      "pinyin": "zhè",
+      "meaning": "này",
+      "example": "我会认真学习“这”。",
+      "examplePinyin": "Wǒ huì rènzhēn xuéxí \"zhè\".",
+      "exampleMeaning": "Ví dụ ghi nhớ: này",
+      "synonyms": [],
+      "audioText": "这"
+    },
+    {
+      "hanzi": "中国",
+      "pinyin": "Zhōngguó",
+      "meaning": "Trung Quốc",
+      "example": "我会认真学习“中国”。",
+      "examplePinyin": "Wǒ huì rènzhēn xuéxí \"Zhōngguó\".",
+      "exampleMeaning": "Ví dụ ghi nhớ: Trung Quốc",
+      "synonyms": [],
+      "audioText": "中国"
+    },
+    {
+      "hanzi": "中午",
+      "pinyin": "zhōngwǔ",
+      "meaning": "buổi trưa",
+      "example": "我会认真学习“中午”。",
+      "examplePinyin": "Wǒ huì rènzhēn xuéxí \"zhōngwǔ\".",
+      "exampleMeaning": "Ví dụ ghi nhớ: buổi trưa",
+      "synonyms": [],
+      "audioText": "中午"
+    },
+    {
+      "hanzi": "住",
+      "pinyin": "zhù",
+      "meaning": "sống, ở",
+      "example": "我会认真学习“住”。",
+      "examplePinyin": "Wǒ huì rènzhēn xuéxí \"zhù\".",
+      "exampleMeaning": "Ví dụ ghi nhớ: sống, ở",
+      "synonyms": [],
+      "audioText": "住"
+    },
+    {
+      "hanzi": "桌子",
+      "pinyin": "zhuōzi",
+      "meaning": "cái bàn",
+      "example": "我会认真学习“桌子”。",
+      "examplePinyin": "Wǒ huì rènzhēn xuéxí \"zhuōzi\".",
+      "exampleMeaning": "Ví dụ ghi nhớ: cái bàn",
+      "synonyms": [],
+      "audioText": "桌子"
+    },
+    {
+      "hanzi": "字",
+      "pinyin": "zì",
+      "meaning": "chữ, ký tự",
+      "example": "我会认真学习“字”。",
+      "examplePinyin": "Wǒ huì rènzhēn xuéxí \"zì\".",
+      "exampleMeaning": "Ví dụ ghi nhớ: chữ, ký tự",
+      "synonyms": [],
+      "audioText": "字"
+    },
+    {
+      "hanzi": "昨天",
+      "pinyin": "zuótiān",
+      "meaning": "hôm qua",
+      "example": "我会认真学习“昨天”。",
+      "examplePinyin": "Wǒ huì rènzhēn xuéxí \"zuótiān\".",
+      "exampleMeaning": "Ví dụ ghi nhớ: hôm qua",
+      "synonyms": [],
+      "audioText": "昨天"
+    },
+    {
+      "hanzi": "坐",
+      "pinyin": "zuò",
+      "meaning": "ngồi",
+      "example": "我会认真学习“坐”。",
+      "examplePinyin": "Wǒ huì rènzhēn xuéxí \"zuò\".",
+      "exampleMeaning": "Ví dụ ghi nhớ: ngồi",
+      "synonyms": [],
+      "audioText": "坐"
+    },
+    {
+      "hanzi": "做",
+      "pinyin": "zuò",
+      "meaning": "làm",
+      "example": "我会认真学习“做”。",
+      "examplePinyin": "Wǒ huì rènzhēn xuéxí \"zuò\".",
+      "exampleMeaning": "Ví dụ ghi nhớ: làm",
+      "synonyms": [],
+      "audioText": "做"
+    }
+  ],
+  "flashcards": [
+    {
+      "hanzi": "爱",
+      "pinyin": "ài",
+      "meaning": "yêu, thích",
+      "example": "我会认真学习“爱”。",
+      "examplePinyin": "Wǒ huì rènzhēn xuéxí \"ài\".",
+      "exampleMeaning": "Ví dụ ghi nhớ: yêu, thích",
+      "synonyms": [],
+      "audioText": "爱"
+    },
+    {
+      "hanzi": "八",
+      "pinyin": "bā",
+      "meaning": "số 8",
+      "example": "我会认真学习“八”。",
+      "examplePinyin": "Wǒ huì rènzhēn xuéxí \"bā\".",
+      "exampleMeaning": "Ví dụ ghi nhớ: số 8",
+      "synonyms": [],
+      "audioText": "八"
+    },
+    {
+      "hanzi": "爸爸",
+      "pinyin": "bàba",
+      "meaning": "bố",
+      "example": "我会认真学习“爸爸”。",
+      "examplePinyin": "Wǒ huì rènzhēn xuéxí \"bàba\".",
+      "exampleMeaning": "Ví dụ ghi nhớ: bố",
+      "synonyms": [],
+      "audioText": "爸爸"
+    },
+    {
+      "hanzi": "杯子",
+      "pinyin": "bēizi",
+      "meaning": "cái cốc",
+      "example": "我会认真学习“杯子”。",
+      "examplePinyin": "Wǒ huì rènzhēn xuéxí \"bēizi\".",
+      "exampleMeaning": "Ví dụ ghi nhớ: cái cốc",
+      "synonyms": [],
+      "audioText": "杯子"
+    },
+    {
+      "hanzi": "北京",
+      "pinyin": "Běijīng",
+      "meaning": "Bắc Kinh",
+      "example": "我会认真学习“北京”。",
+      "examplePinyin": "Wǒ huì rènzhēn xuéxí \"Běijīng\".",
+      "exampleMeaning": "Ví dụ ghi nhớ: Bắc Kinh",
+      "synonyms": [],
+      "audioText": "北京"
+    },
+    {
+      "hanzi": "本",
+      "pinyin": "běn",
+      "meaning": "quyển, cuốn",
+      "example": "我会认真学习“本”。",
+      "examplePinyin": "Wǒ huì rènzhēn xuéxí \"běn\".",
+      "exampleMeaning": "Ví dụ ghi nhớ: quyển, cuốn",
+      "synonyms": [],
+      "audioText": "本"
+    },
+    {
+      "hanzi": "不客气",
+      "pinyin": "bú kèqi",
+      "meaning": "không có gì",
+      "example": "我会认真学习“不客气”。",
+      "examplePinyin": "Wǒ huì rènzhēn xuéxí \"bú kèqi\".",
+      "exampleMeaning": "Ví dụ ghi nhớ: không có gì",
+      "synonyms": [],
+      "audioText": "不客气"
+    },
+    {
+      "hanzi": "不",
+      "pinyin": "bù",
+      "meaning": "không",
+      "example": "我会认真学习“不”。",
+      "examplePinyin": "Wǒ huì rènzhēn xuéxí \"bù\".",
+      "exampleMeaning": "Ví dụ ghi nhớ: không",
+      "synonyms": [],
+      "audioText": "不"
+    },
+    {
+      "hanzi": "菜",
+      "pinyin": "cài",
+      "meaning": "món ăn, rau",
+      "example": "我会认真学习“菜”。",
+      "examplePinyin": "Wǒ huì rènzhēn xuéxí \"cài\".",
+      "exampleMeaning": "Ví dụ ghi nhớ: món ăn, rau",
+      "synonyms": [],
+      "audioText": "菜"
+    },
+    {
+      "hanzi": "茶",
+      "pinyin": "chá",
+      "meaning": "trà",
+      "example": "我会认真学习“茶”。",
+      "examplePinyin": "Wǒ huì rènzhēn xuéxí \"chá\".",
+      "exampleMeaning": "Ví dụ ghi nhớ: trà",
+      "synonyms": [],
+      "audioText": "茶"
+    },
+    {
+      "hanzi": "吃",
+      "pinyin": "chī",
+      "meaning": "ăn",
+      "example": "我会认真学习“吃”。",
+      "examplePinyin": "Wǒ huì rènzhēn xuéxí \"chī\".",
+      "exampleMeaning": "Ví dụ ghi nhớ: ăn",
+      "synonyms": [],
+      "audioText": "吃"
+    },
+    {
+      "hanzi": "出租车",
+      "pinyin": "chūzūchē",
+      "meaning": "taxi",
+      "example": "我会认真学习“出租车”。",
+      "examplePinyin": "Wǒ huì rènzhēn xuéxí \"chūzūchē\".",
+      "exampleMeaning": "Ví dụ ghi nhớ: taxi",
+      "synonyms": [],
+      "audioText": "出租车"
+    },
+    {
+      "hanzi": "打电话",
+      "pinyin": "dǎ diànhuà",
+      "meaning": "gọi điện thoại",
+      "example": "我会认真学习“打电话”。",
+      "examplePinyin": "Wǒ huì rènzhēn xuéxí \"dǎ diànhuà\".",
+      "exampleMeaning": "Ví dụ ghi nhớ: gọi điện thoại",
+      "synonyms": [],
+      "audioText": "打电话"
+    },
+    {
+      "hanzi": "大",
+      "pinyin": "dà",
+      "meaning": "to, lớn",
+      "example": "我会认真学习“大”。",
+      "examplePinyin": "Wǒ huì rènzhēn xuéxí \"dà\".",
+      "exampleMeaning": "Ví dụ ghi nhớ: to, lớn",
+      "synonyms": [],
+      "audioText": "大"
+    },
+    {
+      "hanzi": "的",
+      "pinyin": "de",
+      "meaning": "trợ từ sở hữu",
+      "example": "我会认真学习“的”。",
+      "examplePinyin": "Wǒ huì rènzhēn xuéxí \"de\".",
+      "exampleMeaning": "Ví dụ ghi nhớ: trợ từ sở hữu",
+      "synonyms": [],
+      "audioText": "的"
+    },
+    {
+      "hanzi": "点",
+      "pinyin": "diǎn",
+      "meaning": "giờ, chút",
+      "example": "我会认真学习“点”。",
+      "examplePinyin": "Wǒ huì rènzhēn xuéxí \"diǎn\".",
+      "exampleMeaning": "Ví dụ ghi nhớ: giờ, chút",
+      "synonyms": [],
+      "audioText": "点"
+    },
+    {
+      "hanzi": "电脑",
+      "pinyin": "diànnǎo",
+      "meaning": "máy tính",
+      "example": "我会认真学习“电脑”。",
+      "examplePinyin": "Wǒ huì rènzhēn xuéxí \"diànnǎo\".",
+      "exampleMeaning": "Ví dụ ghi nhớ: máy tính",
+      "synonyms": [],
+      "audioText": "电脑"
+    },
+    {
+      "hanzi": "电视",
+      "pinyin": "diànshì",
+      "meaning": "ti vi",
+      "example": "我会认真学习“电视”。",
+      "examplePinyin": "Wǒ huì rènzhēn xuéxí \"diànshì\".",
+      "exampleMeaning": "Ví dụ ghi nhớ: ti vi",
+      "synonyms": [],
+      "audioText": "电视"
+    },
+    {
+      "hanzi": "电影",
+      "pinyin": "diànyǐng",
+      "meaning": "phim",
+      "example": "我会认真学习“电影”。",
+      "examplePinyin": "Wǒ huì rènzhēn xuéxí \"diànyǐng\".",
+      "exampleMeaning": "Ví dụ ghi nhớ: phim",
+      "synonyms": [],
+      "audioText": "电影"
+    },
+    {
+      "hanzi": "东西",
+      "pinyin": "dōngxi",
+      "meaning": "đồ vật",
+      "example": "我会认真学习“东西”。",
+      "examplePinyin": "Wǒ huì rènzhēn xuéxí \"dōngxi\".",
+      "exampleMeaning": "Ví dụ ghi nhớ: đồ vật",
+      "synonyms": [],
+      "audioText": "东西"
+    },
+    {
+      "hanzi": "都",
+      "pinyin": "dōu",
+      "meaning": "đều",
+      "example": "我会认真学习“都”。",
+      "examplePinyin": "Wǒ huì rènzhēn xuéxí \"dōu\".",
+      "exampleMeaning": "Ví dụ ghi nhớ: đều",
+      "synonyms": [],
+      "audioText": "都"
+    },
+    {
+      "hanzi": "读",
+      "pinyin": "dú",
+      "meaning": "đọc",
+      "example": "我会认真学习“读”。",
+      "examplePinyin": "Wǒ huì rènzhēn xuéxí \"dú\".",
+      "exampleMeaning": "Ví dụ ghi nhớ: đọc",
+      "synonyms": [],
+      "audioText": "读"
+    },
+    {
+      "hanzi": "对不起",
+      "pinyin": "duìbuqǐ",
+      "meaning": "xin lỗi",
+      "example": "我会认真学习“对不起”。",
+      "examplePinyin": "Wǒ huì rènzhēn xuéxí \"duìbuqǐ\".",
+      "exampleMeaning": "Ví dụ ghi nhớ: xin lỗi",
+      "synonyms": [],
+      "audioText": "对不起"
+    },
+    {
+      "hanzi": "多",
+      "pinyin": "duō",
+      "meaning": "nhiều",
+      "example": "我会认真学习“多”。",
+      "examplePinyin": "Wǒ huì rènzhēn xuéxí \"duō\".",
+      "exampleMeaning": "Ví dụ ghi nhớ: nhiều",
+      "synonyms": [],
+      "audioText": "多"
+    },
+    {
+      "hanzi": "多少",
+      "pinyin": "duōshao",
+      "meaning": "bao nhiêu",
+      "example": "我会认真学习“多少”。",
+      "examplePinyin": "Wǒ huì rènzhēn xuéxí \"duōshao\".",
+      "exampleMeaning": "Ví dụ ghi nhớ: bao nhiêu",
+      "synonyms": [],
+      "audioText": "多少"
+    },
+    {
+      "hanzi": "儿子",
+      "pinyin": "érzi",
+      "meaning": "con trai",
+      "example": "我会认真学习“儿子”。",
+      "examplePinyin": "Wǒ huì rènzhēn xuéxí \"érzi\".",
+      "exampleMeaning": "Ví dụ ghi nhớ: con trai",
+      "synonyms": [],
+      "audioText": "儿子"
+    },
+    {
+      "hanzi": "二",
+      "pinyin": "èr",
+      "meaning": "số 2",
+      "example": "我会认真学习“二”。",
+      "examplePinyin": "Wǒ huì rènzhēn xuéxí \"èr\".",
+      "exampleMeaning": "Ví dụ ghi nhớ: số 2",
+      "synonyms": [],
+      "audioText": "二"
+    },
+    {
+      "hanzi": "饭店",
+      "pinyin": "fàndiàn",
+      "meaning": "nhà hàng",
+      "example": "我会认真学习“饭店”。",
+      "examplePinyin": "Wǒ huì rènzhēn xuéxí \"fàndiàn\".",
+      "exampleMeaning": "Ví dụ ghi nhớ: nhà hàng",
+      "synonyms": [],
+      "audioText": "饭店"
+    },
+    {
+      "hanzi": "飞机",
+      "pinyin": "fēijī",
+      "meaning": "máy bay",
+      "example": "我会认真学习“飞机”。",
+      "examplePinyin": "Wǒ huì rènzhēn xuéxí \"fēijī\".",
+      "exampleMeaning": "Ví dụ ghi nhớ: máy bay",
+      "synonyms": [],
+      "audioText": "飞机"
+    },
+    {
+      "hanzi": "分钟",
+      "pinyin": "fēnzhōng",
+      "meaning": "phút",
+      "example": "我会认真学习“分钟”。",
+      "examplePinyin": "Wǒ huì rènzhēn xuéxí \"fēnzhōng\".",
+      "exampleMeaning": "Ví dụ ghi nhớ: phút",
+      "synonyms": [],
+      "audioText": "分钟"
+    },
+    {
+      "hanzi": "高兴",
+      "pinyin": "gāoxìng",
+      "meaning": "vui",
+      "example": "我会认真学习“高兴”。",
+      "examplePinyin": "Wǒ huì rènzhēn xuéxí \"gāoxìng\".",
+      "exampleMeaning": "Ví dụ ghi nhớ: vui",
+      "synonyms": [],
+      "audioText": "高兴"
+    },
+    {
+      "hanzi": "个",
+      "pinyin": "gè",
+      "meaning": "lượng từ phổ biến",
+      "example": "我会认真学习“个”。",
+      "examplePinyin": "Wǒ huì rènzhēn xuéxí \"gè\".",
+      "exampleMeaning": "Ví dụ ghi nhớ: lượng từ phổ biến",
+      "synonyms": [],
+      "audioText": "个"
+    },
+    {
+      "hanzi": "工作",
+      "pinyin": "gōngzuò",
+      "meaning": "công việc",
+      "example": "我会认真学习“工作”。",
+      "examplePinyin": "Wǒ huì rènzhēn xuéxí \"gōngzuò\".",
+      "exampleMeaning": "Ví dụ ghi nhớ: công việc",
+      "synonyms": [],
+      "audioText": "工作"
+    },
+    {
+      "hanzi": "狗",
+      "pinyin": "gǒu",
+      "meaning": "chó",
+      "example": "我会认真学习“狗”。",
+      "examplePinyin": "Wǒ huì rènzhēn xuéxí \"gǒu\".",
+      "exampleMeaning": "Ví dụ ghi nhớ: chó",
+      "synonyms": [],
+      "audioText": "狗"
+    },
+    {
+      "hanzi": "汉语",
+      "pinyin": "Hànyǔ",
+      "meaning": "tiếng Trung",
+      "example": "我会认真学习“汉语”。",
+      "examplePinyin": "Wǒ huì rènzhēn xuéxí \"Hànyǔ\".",
+      "exampleMeaning": "Ví dụ ghi nhớ: tiếng Trung",
+      "synonyms": [],
+      "audioText": "汉语"
+    },
+    {
+      "hanzi": "好",
+      "pinyin": "hǎo",
+      "meaning": "tốt",
+      "example": "我会认真学习“好”。",
+      "examplePinyin": "Wǒ huì rènzhēn xuéxí \"hǎo\".",
+      "exampleMeaning": "Ví dụ ghi nhớ: tốt",
+      "synonyms": [],
+      "audioText": "好"
+    },
+    {
+      "hanzi": "号",
+      "pinyin": "hào",
+      "meaning": "ngày, số",
+      "example": "我会认真学习“号”。",
+      "examplePinyin": "Wǒ huì rènzhēn xuéxí \"hào\".",
+      "exampleMeaning": "Ví dụ ghi nhớ: ngày, số",
+      "synonyms": [],
+      "audioText": "号"
+    },
+    {
+      "hanzi": "喝",
+      "pinyin": "hē",
+      "meaning": "uống",
+      "example": "我会认真学习“喝”。",
+      "examplePinyin": "Wǒ huì rènzhēn xuéxí \"hē\".",
+      "exampleMeaning": "Ví dụ ghi nhớ: uống",
+      "synonyms": [],
+      "audioText": "喝"
+    },
+    {
+      "hanzi": "和",
+      "pinyin": "hé",
+      "meaning": "và",
+      "example": "我会认真学习“和”。",
+      "examplePinyin": "Wǒ huì rènzhēn xuéxí \"hé\".",
+      "exampleMeaning": "Ví dụ ghi nhớ: và",
+      "synonyms": [],
+      "audioText": "和"
+    },
+    {
+      "hanzi": "很",
+      "pinyin": "hěn",
+      "meaning": "rất",
+      "example": "我会认真学习“很”。",
+      "examplePinyin": "Wǒ huì rènzhēn xuéxí \"hěn\".",
+      "exampleMeaning": "Ví dụ ghi nhớ: rất",
+      "synonyms": [],
+      "audioText": "很"
+    },
+    {
+      "hanzi": "后面",
+      "pinyin": "hòumiàn",
+      "meaning": "phía sau",
+      "example": "我会认真学习“后面”。",
+      "examplePinyin": "Wǒ huì rènzhēn xuéxí \"hòumiàn\".",
+      "exampleMeaning": "Ví dụ ghi nhớ: phía sau",
+      "synonyms": [],
+      "audioText": "后面"
+    },
+    {
+      "hanzi": "回",
+      "pinyin": "huí",
+      "meaning": "trở về",
+      "example": "我会认真学习“回”。",
+      "examplePinyin": "Wǒ huì rènzhēn xuéxí \"huí\".",
+      "exampleMeaning": "Ví dụ ghi nhớ: trở về",
+      "synonyms": [],
+      "audioText": "回"
+    },
+    {
+      "hanzi": "会",
+      "pinyin": "huì",
+      "meaning": "biết, sẽ",
+      "example": "我会认真学习“会”。",
+      "examplePinyin": "Wǒ huì rènzhēn xuéxí \"huì\".",
+      "exampleMeaning": "Ví dụ ghi nhớ: biết, sẽ",
+      "synonyms": [],
+      "audioText": "会"
+    },
+    {
+      "hanzi": "几",
+      "pinyin": "jǐ",
+      "meaning": "mấy",
+      "example": "我会认真学习“几”。",
+      "examplePinyin": "Wǒ huì rènzhēn xuéxí \"jǐ\".",
+      "exampleMeaning": "Ví dụ ghi nhớ: mấy",
+      "synonyms": [],
+      "audioText": "几"
+    },
+    {
+      "hanzi": "家",
+      "pinyin": "jiā",
+      "meaning": "nhà, gia đình",
+      "example": "我会认真学习“家”。",
+      "examplePinyin": "Wǒ huì rènzhēn xuéxí \"jiā\".",
+      "exampleMeaning": "Ví dụ ghi nhớ: nhà, gia đình",
+      "synonyms": [],
+      "audioText": "家"
+    },
+    {
+      "hanzi": "叫",
+      "pinyin": "jiào",
+      "meaning": "gọi là",
+      "example": "我会认真学习“叫”。",
+      "examplePinyin": "Wǒ huì rènzhēn xuéxí \"jiào\".",
+      "exampleMeaning": "Ví dụ ghi nhớ: gọi là",
+      "synonyms": [],
+      "audioText": "叫"
+    },
+    {
+      "hanzi": "今天",
+      "pinyin": "jīntiān",
+      "meaning": "hôm nay",
+      "example": "我会认真学习“今天”。",
+      "examplePinyin": "Wǒ huì rènzhēn xuéxí \"jīntiān\".",
+      "exampleMeaning": "Ví dụ ghi nhớ: hôm nay",
+      "synonyms": [],
+      "audioText": "今天"
+    },
+    {
+      "hanzi": "九",
+      "pinyin": "jiǔ",
+      "meaning": "số 9",
+      "example": "我会认真学习“九”。",
+      "examplePinyin": "Wǒ huì rènzhēn xuéxí \"jiǔ\".",
+      "exampleMeaning": "Ví dụ ghi nhớ: số 9",
+      "synonyms": [],
+      "audioText": "九"
+    },
+    {
+      "hanzi": "开",
+      "pinyin": "kāi",
+      "meaning": "mở",
+      "example": "我会认真学习“开”。",
+      "examplePinyin": "Wǒ huì rènzhēn xuéxí \"kāi\".",
+      "exampleMeaning": "Ví dụ ghi nhớ: mở",
+      "synonyms": [],
+      "audioText": "开"
+    },
+    {
+      "hanzi": "看",
+      "pinyin": "kàn",
+      "meaning": "nhìn, xem",
+      "example": "我会认真学习“看”。",
+      "examplePinyin": "Wǒ huì rènzhēn xuéxí \"kàn\".",
+      "exampleMeaning": "Ví dụ ghi nhớ: nhìn, xem",
+      "synonyms": [],
+      "audioText": "看"
+    },
+    {
+      "hanzi": "看见",
+      "pinyin": "kànjiàn",
+      "meaning": "trông thấy",
+      "example": "我会认真学习“看见”。",
+      "examplePinyin": "Wǒ huì rènzhēn xuéxí \"kànjiàn\".",
+      "exampleMeaning": "Ví dụ ghi nhớ: trông thấy",
+      "synonyms": [],
+      "audioText": "看见"
+    },
+    {
+      "hanzi": "块",
+      "pinyin": "kuài",
+      "meaning": "đồng, miếng",
+      "example": "我会认真学习“块”。",
+      "examplePinyin": "Wǒ huì rènzhēn xuéxí \"kuài\".",
+      "exampleMeaning": "Ví dụ ghi nhớ: đồng, miếng",
+      "synonyms": [],
+      "audioText": "块"
+    },
+    {
+      "hanzi": "来",
+      "pinyin": "lái",
+      "meaning": "đến",
+      "example": "我会认真学习“来”。",
+      "examplePinyin": "Wǒ huì rènzhēn xuéxí \"lái\".",
+      "exampleMeaning": "Ví dụ ghi nhớ: đến",
+      "synonyms": [],
+      "audioText": "来"
+    },
+    {
+      "hanzi": "老师",
+      "pinyin": "lǎoshī",
+      "meaning": "giáo viên",
+      "example": "我会认真学习“老师”。",
+      "examplePinyin": "Wǒ huì rènzhēn xuéxí \"lǎoshī\".",
+      "exampleMeaning": "Ví dụ ghi nhớ: giáo viên",
+      "synonyms": [],
+      "audioText": "老师"
+    },
+    {
+      "hanzi": "了",
+      "pinyin": "le",
+      "meaning": "trợ từ hoàn thành",
+      "example": "我会认真学习“了”。",
+      "examplePinyin": "Wǒ huì rènzhēn xuéxí \"le\".",
+      "exampleMeaning": "Ví dụ ghi nhớ: trợ từ hoàn thành",
+      "synonyms": [],
+      "audioText": "了"
+    },
+    {
+      "hanzi": "冷",
+      "pinyin": "lěng",
+      "meaning": "lạnh",
+      "example": "我会认真学习“冷”。",
+      "examplePinyin": "Wǒ huì rènzhēn xuéxí \"lěng\".",
+      "exampleMeaning": "Ví dụ ghi nhớ: lạnh",
+      "synonyms": [],
+      "audioText": "冷"
+    },
+    {
+      "hanzi": "里",
+      "pinyin": "lǐ",
+      "meaning": "bên trong",
+      "example": "我会认真学习“里”。",
+      "examplePinyin": "Wǒ huì rènzhēn xuéxí \"lǐ\".",
+      "exampleMeaning": "Ví dụ ghi nhớ: bên trong",
+      "synonyms": [],
+      "audioText": "里"
+    },
+    {
+      "hanzi": "零",
+      "pinyin": "líng",
+      "meaning": "số 0",
+      "example": "我会认真学习“零”。",
+      "examplePinyin": "Wǒ huì rènzhēn xuéxí \"líng\".",
+      "exampleMeaning": "Ví dụ ghi nhớ: số 0",
+      "synonyms": [],
+      "audioText": "零"
+    },
+    {
+      "hanzi": "六",
+      "pinyin": "liù",
+      "meaning": "số 6",
+      "example": "我会认真学习“六”。",
+      "examplePinyin": "Wǒ huì rènzhēn xuéxí \"liù\".",
+      "exampleMeaning": "Ví dụ ghi nhớ: số 6",
+      "synonyms": [],
+      "audioText": "六"
+    },
+    {
+      "hanzi": "妈妈",
+      "pinyin": "māma",
+      "meaning": "mẹ",
+      "example": "我会认真学习“妈妈”。",
+      "examplePinyin": "Wǒ huì rènzhēn xuéxí \"māma\".",
+      "exampleMeaning": "Ví dụ ghi nhớ: mẹ",
+      "synonyms": [],
+      "audioText": "妈妈"
+    },
+    {
+      "hanzi": "吗",
+      "pinyin": "ma",
+      "meaning": "trợ từ nghi vấn",
+      "example": "我会认真学习“吗”。",
+      "examplePinyin": "Wǒ huì rènzhēn xuéxí \"ma\".",
+      "exampleMeaning": "Ví dụ ghi nhớ: trợ từ nghi vấn",
+      "synonyms": [],
+      "audioText": "吗"
+    },
+    {
+      "hanzi": "买",
+      "pinyin": "mǎi",
+      "meaning": "mua",
+      "example": "我会认真学习“买”。",
+      "examplePinyin": "Wǒ huì rènzhēn xuéxí \"mǎi\".",
+      "exampleMeaning": "Ví dụ ghi nhớ: mua",
+      "synonyms": [],
+      "audioText": "买"
+    },
+    {
+      "hanzi": "猫",
+      "pinyin": "māo",
+      "meaning": "mèo",
+      "example": "我会认真学习“猫”。",
+      "examplePinyin": "Wǒ huì rènzhēn xuéxí \"māo\".",
+      "exampleMeaning": "Ví dụ ghi nhớ: mèo",
+      "synonyms": [],
+      "audioText": "猫"
+    },
+    {
+      "hanzi": "没关系",
+      "pinyin": "méiguānxi",
+      "meaning": "không sao",
+      "example": "我会认真学习“没关系”。",
+      "examplePinyin": "Wǒ huì rènzhēn xuéxí \"méiguānxi\".",
+      "exampleMeaning": "Ví dụ ghi nhớ: không sao",
+      "synonyms": [],
+      "audioText": "没关系"
+    },
+    {
+      "hanzi": "没有",
+      "pinyin": "méiyǒu",
+      "meaning": "không có",
+      "example": "我会认真学习“没有”。",
+      "examplePinyin": "Wǒ huì rènzhēn xuéxí \"méiyǒu\".",
+      "exampleMeaning": "Ví dụ ghi nhớ: không có",
+      "synonyms": [],
+      "audioText": "没有"
+    },
+    {
+      "hanzi": "米饭",
+      "pinyin": "mǐfàn",
+      "meaning": "cơm",
+      "example": "我会认真学习“米饭”。",
+      "examplePinyin": "Wǒ huì rènzhēn xuéxí \"mǐfàn\".",
+      "exampleMeaning": "Ví dụ ghi nhớ: cơm",
+      "synonyms": [],
+      "audioText": "米饭"
+    },
+    {
+      "hanzi": "名字",
+      "pinyin": "míngzi",
+      "meaning": "tên",
+      "example": "我会认真学习“名字”。",
+      "examplePinyin": "Wǒ huì rènzhēn xuéxí \"míngzi\".",
+      "exampleMeaning": "Ví dụ ghi nhớ: tên",
+      "synonyms": [],
+      "audioText": "名字"
+    },
+    {
+      "hanzi": "明天",
+      "pinyin": "míngtiān",
+      "meaning": "ngày mai",
+      "example": "我会认真学习“明天”。",
+      "examplePinyin": "Wǒ huì rènzhēn xuéxí \"míngtiān\".",
+      "exampleMeaning": "Ví dụ ghi nhớ: ngày mai",
+      "synonyms": [],
+      "audioText": "明天"
+    },
+    {
+      "hanzi": "哪",
+      "pinyin": "nǎ",
+      "meaning": "nào",
+      "example": "我会认真学习“哪”。",
+      "examplePinyin": "Wǒ huì rènzhēn xuéxí \"nǎ\".",
+      "exampleMeaning": "Ví dụ ghi nhớ: nào",
+      "synonyms": [],
+      "audioText": "哪"
+    },
+    {
+      "hanzi": "哪儿",
+      "pinyin": "nǎr",
+      "meaning": "ở đâu",
+      "example": "我会认真学习“哪儿”。",
+      "examplePinyin": "Wǒ huì rènzhēn xuéxí \"nǎr\".",
+      "exampleMeaning": "Ví dụ ghi nhớ: ở đâu",
+      "synonyms": [],
+      "audioText": "哪儿"
+    },
+    {
+      "hanzi": "那",
+      "pinyin": "nà",
+      "meaning": "kia, đó",
+      "example": "我会认真学习“那”。",
+      "examplePinyin": "Wǒ huì rènzhēn xuéxí \"nà\".",
+      "exampleMeaning": "Ví dụ ghi nhớ: kia, đó",
+      "synonyms": [],
+      "audioText": "那"
+    },
+    {
+      "hanzi": "呢",
+      "pinyin": "ne",
+      "meaning": "trợ từ ngữ khí",
+      "example": "我会认真学习“呢”。",
+      "examplePinyin": "Wǒ huì rènzhēn xuéxí \"ne\".",
+      "exampleMeaning": "Ví dụ ghi nhớ: trợ từ ngữ khí",
+      "synonyms": [],
+      "audioText": "呢"
+    },
+    {
+      "hanzi": "能",
+      "pinyin": "néng",
+      "meaning": "có thể",
+      "example": "我会认真学习“能”。",
+      "examplePinyin": "Wǒ huì rènzhēn xuéxí \"néng\".",
+      "exampleMeaning": "Ví dụ ghi nhớ: có thể",
+      "synonyms": [],
+      "audioText": "能"
+    },
+    {
+      "hanzi": "你",
+      "pinyin": "nǐ",
+      "meaning": "bạn",
+      "example": "我会认真学习“你”。",
+      "examplePinyin": "Wǒ huì rènzhēn xuéxí \"nǐ\".",
+      "exampleMeaning": "Ví dụ ghi nhớ: bạn",
+      "synonyms": [],
+      "audioText": "你"
+    },
+    {
+      "hanzi": "年",
+      "pinyin": "nián",
+      "meaning": "năm",
+      "example": "我会认真学习“年”。",
+      "examplePinyin": "Wǒ huì rènzhēn xuéxí \"nián\".",
+      "exampleMeaning": "Ví dụ ghi nhớ: năm",
+      "synonyms": [],
+      "audioText": "年"
+    },
+    {
+      "hanzi": "女儿",
+      "pinyin": "nǚ'ér",
+      "meaning": "con gái",
+      "example": "我会认真学习“女儿”。",
+      "examplePinyin": "Wǒ huì rènzhēn xuéxí \"nǚ'ér\".",
+      "exampleMeaning": "Ví dụ ghi nhớ: con gái",
+      "synonyms": [],
+      "audioText": "女儿"
+    },
+    {
+      "hanzi": "朋友",
+      "pinyin": "péngyou",
+      "meaning": "bạn bè",
+      "example": "我会认真学习“朋友”。",
+      "examplePinyin": "Wǒ huì rènzhēn xuéxí \"péngyou\".",
+      "exampleMeaning": "Ví dụ ghi nhớ: bạn bè",
+      "synonyms": [],
+      "audioText": "朋友"
+    },
+    {
+      "hanzi": "漂亮",
+      "pinyin": "piàoliang",
+      "meaning": "xinh đẹp",
+      "example": "我会认真学习“漂亮”。",
+      "examplePinyin": "Wǒ huì rènzhēn xuéxí \"piàoliang\".",
+      "exampleMeaning": "Ví dụ ghi nhớ: xinh đẹp",
+      "synonyms": [],
+      "audioText": "漂亮"
+    },
+    {
+      "hanzi": "苹果",
+      "pinyin": "píngguǒ",
+      "meaning": "táo",
+      "example": "我会认真学习“苹果”。",
+      "examplePinyin": "Wǒ huì rènzhēn xuéxí \"píngguǒ\".",
+      "exampleMeaning": "Ví dụ ghi nhớ: táo",
+      "synonyms": [],
+      "audioText": "苹果"
+    },
+    {
+      "hanzi": "七",
+      "pinyin": "qī",
+      "meaning": "số 7",
+      "example": "我会认真学习“七”。",
+      "examplePinyin": "Wǒ huì rènzhēn xuéxí \"qī\".",
+      "exampleMeaning": "Ví dụ ghi nhớ: số 7",
+      "synonyms": [],
+      "audioText": "七"
+    },
+    {
+      "hanzi": "钱",
+      "pinyin": "qián",
+      "meaning": "tiền",
+      "example": "我会认真学习“钱”。",
+      "examplePinyin": "Wǒ huì rènzhēn xuéxí \"qián\".",
+      "exampleMeaning": "Ví dụ ghi nhớ: tiền",
+      "synonyms": [],
+      "audioText": "钱"
+    },
+    {
+      "hanzi": "前面",
+      "pinyin": "qiánmiàn",
+      "meaning": "phía trước",
+      "example": "我会认真学习“前面”。",
+      "examplePinyin": "Wǒ huì rènzhēn xuéxí \"qiánmiàn\".",
+      "exampleMeaning": "Ví dụ ghi nhớ: phía trước",
+      "synonyms": [],
+      "audioText": "前面"
+    },
+    {
+      "hanzi": "请",
+      "pinyin": "qǐng",
+      "meaning": "mời",
+      "example": "我会认真学习“请”。",
+      "examplePinyin": "Wǒ huì rènzhēn xuéxí \"qǐng\".",
+      "exampleMeaning": "Ví dụ ghi nhớ: mời",
+      "synonyms": [],
+      "audioText": "请"
+    },
+    {
+      "hanzi": "去",
+      "pinyin": "qù",
+      "meaning": "đi",
+      "example": "我会认真学习“去”。",
+      "examplePinyin": "Wǒ huì rènzhēn xuéxí \"qù\".",
+      "exampleMeaning": "Ví dụ ghi nhớ: đi",
+      "synonyms": [],
+      "audioText": "去"
+    },
+    {
+      "hanzi": "热",
+      "pinyin": "rè",
+      "meaning": "nóng",
+      "example": "我会认真学习“热”。",
+      "examplePinyin": "Wǒ huì rènzhēn xuéxí \"rè\".",
+      "exampleMeaning": "Ví dụ ghi nhớ: nóng",
+      "synonyms": [],
+      "audioText": "热"
+    },
+    {
+      "hanzi": "人",
+      "pinyin": "rén",
+      "meaning": "người",
+      "example": "我会认真学习“人”。",
+      "examplePinyin": "Wǒ huì rènzhēn xuéxí \"rén\".",
+      "exampleMeaning": "Ví dụ ghi nhớ: người",
+      "synonyms": [],
+      "audioText": "人"
+    },
+    {
+      "hanzi": "认识",
+      "pinyin": "rènshi",
+      "meaning": "quen, biết",
+      "example": "我会认真学习“认识”。",
+      "examplePinyin": "Wǒ huì rènzhēn xuéxí \"rènshi\".",
+      "exampleMeaning": "Ví dụ ghi nhớ: quen, biết",
+      "synonyms": [],
+      "audioText": "认识"
+    },
+    {
+      "hanzi": "三",
+      "pinyin": "sān",
+      "meaning": "số 3",
+      "example": "我会认真学习“三”。",
+      "examplePinyin": "Wǒ huì rènzhēn xuéxí \"sān\".",
+      "exampleMeaning": "Ví dụ ghi nhớ: số 3",
+      "synonyms": [],
+      "audioText": "三"
+    },
+    {
+      "hanzi": "商店",
+      "pinyin": "shāngdiàn",
+      "meaning": "cửa hàng",
+      "example": "我会认真学习“商店”。",
+      "examplePinyin": "Wǒ huì rènzhēn xuéxí \"shāngdiàn\".",
+      "exampleMeaning": "Ví dụ ghi nhớ: cửa hàng",
+      "synonyms": [],
+      "audioText": "商店"
+    },
+    {
+      "hanzi": "上",
+      "pinyin": "shàng",
+      "meaning": "trên",
+      "example": "我会认真学习“上”。",
+      "examplePinyin": "Wǒ huì rènzhēn xuéxí \"shàng\".",
+      "exampleMeaning": "Ví dụ ghi nhớ: trên",
+      "synonyms": [],
+      "audioText": "上"
+    },
+    {
+      "hanzi": "上午",
+      "pinyin": "shàngwǔ",
+      "meaning": "buổi sáng",
+      "example": "我会认真学习“上午”。",
+      "examplePinyin": "Wǒ huì rènzhēn xuéxí \"shàngwǔ\".",
+      "exampleMeaning": "Ví dụ ghi nhớ: buổi sáng",
+      "synonyms": [],
+      "audioText": "上午"
+    },
+    {
+      "hanzi": "少",
+      "pinyin": "shǎo",
+      "meaning": "ít",
+      "example": "我会认真学习“少”。",
+      "examplePinyin": "Wǒ huì rènzhēn xuéxí \"shǎo\".",
+      "exampleMeaning": "Ví dụ ghi nhớ: ít",
+      "synonyms": [],
+      "audioText": "少"
+    },
+    {
+      "hanzi": "谁",
+      "pinyin": "shéi",
+      "meaning": "ai",
+      "example": "我会认真学习“谁”。",
+      "examplePinyin": "Wǒ huì rènzhēn xuéxí \"shéi\".",
+      "exampleMeaning": "Ví dụ ghi nhớ: ai",
+      "synonyms": [],
+      "audioText": "谁"
+    },
+    {
+      "hanzi": "什么",
+      "pinyin": "shénme",
+      "meaning": "cái gì",
+      "example": "我会认真学习“什么”。",
+      "examplePinyin": "Wǒ huì rènzhēn xuéxí \"shénme\".",
+      "exampleMeaning": "Ví dụ ghi nhớ: cái gì",
+      "synonyms": [],
+      "audioText": "什么"
+    },
+    {
+      "hanzi": "十",
+      "pinyin": "shí",
+      "meaning": "số 10",
+      "example": "我会认真学习“十”。",
+      "examplePinyin": "Wǒ huì rènzhēn xuéxí \"shí\".",
+      "exampleMeaning": "Ví dụ ghi nhớ: số 10",
+      "synonyms": [],
+      "audioText": "十"
+    },
+    {
+      "hanzi": "时候",
+      "pinyin": "shíhou",
+      "meaning": "lúc, thời gian",
+      "example": "我会认真学习“时候”。",
+      "examplePinyin": "Wǒ huì rènzhēn xuéxí \"shíhou\".",
+      "exampleMeaning": "Ví dụ ghi nhớ: lúc, thời gian",
+      "synonyms": [],
+      "audioText": "时候"
+    },
+    {
+      "hanzi": "是",
+      "pinyin": "shì",
+      "meaning": "là",
+      "example": "我会认真学习“是”。",
+      "examplePinyin": "Wǒ huì rènzhēn xuéxí \"shì\".",
+      "exampleMeaning": "Ví dụ ghi nhớ: là",
+      "synonyms": [],
+      "audioText": "是"
+    },
+    {
+      "hanzi": "书",
+      "pinyin": "shū",
+      "meaning": "sách",
+      "example": "我会认真学习“书”。",
+      "examplePinyin": "Wǒ huì rènzhēn xuéxí \"shū\".",
+      "exampleMeaning": "Ví dụ ghi nhớ: sách",
+      "synonyms": [],
+      "audioText": "书"
+    },
+    {
+      "hanzi": "水",
+      "pinyin": "shuǐ",
+      "meaning": "nước",
+      "example": "我会认真学习“水”。",
+      "examplePinyin": "Wǒ huì rènzhēn xuéxí \"shuǐ\".",
+      "exampleMeaning": "Ví dụ ghi nhớ: nước",
+      "synonyms": [],
+      "audioText": "水"
+    },
+    {
+      "hanzi": "水果",
+      "pinyin": "shuǐguǒ",
+      "meaning": "trái cây",
+      "example": "我会认真学习“水果”。",
+      "examplePinyin": "Wǒ huì rènzhēn xuéxí \"shuǐguǒ\".",
+      "exampleMeaning": "Ví dụ ghi nhớ: trái cây",
+      "synonyms": [],
+      "audioText": "水果"
+    },
+    {
+      "hanzi": "睡觉",
+      "pinyin": "shuìjiào",
+      "meaning": "ngủ",
+      "example": "我会认真学习“睡觉”。",
+      "examplePinyin": "Wǒ huì rènzhēn xuéxí \"shuìjiào\".",
+      "exampleMeaning": "Ví dụ ghi nhớ: ngủ",
+      "synonyms": [],
+      "audioText": "睡觉"
+    },
+    {
+      "hanzi": "说",
+      "pinyin": "shuō",
+      "meaning": "nói",
+      "example": "我会认真学习“说”。",
+      "examplePinyin": "Wǒ huì rènzhēn xuéxí \"shuō\".",
+      "exampleMeaning": "Ví dụ ghi nhớ: nói",
+      "synonyms": [],
+      "audioText": "说"
+    },
+    {
+      "hanzi": "四",
+      "pinyin": "sì",
+      "meaning": "số 4",
+      "example": "我会认真学习“四”。",
+      "examplePinyin": "Wǒ huì rènzhēn xuéxí \"sì\".",
+      "exampleMeaning": "Ví dụ ghi nhớ: số 4",
+      "synonyms": [],
+      "audioText": "四"
+    },
+    {
+      "hanzi": "岁",
+      "pinyin": "suì",
+      "meaning": "tuổi",
+      "example": "我会认真学习“岁”。",
+      "examplePinyin": "Wǒ huì rènzhēn xuéxí \"suì\".",
+      "exampleMeaning": "Ví dụ ghi nhớ: tuổi",
+      "synonyms": [],
+      "audioText": "岁"
+    },
+    {
+      "hanzi": "他",
+      "pinyin": "tā",
+      "meaning": "anh ấy",
+      "example": "我会认真学习“他”。",
+      "examplePinyin": "Wǒ huì rènzhēn xuéxí \"tā\".",
+      "exampleMeaning": "Ví dụ ghi nhớ: anh ấy",
+      "synonyms": [],
+      "audioText": "他"
+    },
+    {
+      "hanzi": "她",
+      "pinyin": "tā",
+      "meaning": "cô ấy",
+      "example": "我会认真学习“她”。",
+      "examplePinyin": "Wǒ huì rènzhēn xuéxí \"tā\".",
+      "exampleMeaning": "Ví dụ ghi nhớ: cô ấy",
+      "synonyms": [],
+      "audioText": "她"
+    },
+    {
+      "hanzi": "太",
+      "pinyin": "tài",
+      "meaning": "quá",
+      "example": "我会认真学习“太”。",
+      "examplePinyin": "Wǒ huì rènzhēn xuéxí \"tài\".",
+      "exampleMeaning": "Ví dụ ghi nhớ: quá",
+      "synonyms": [],
+      "audioText": "太"
+    },
+    {
+      "hanzi": "天气",
+      "pinyin": "tiānqì",
+      "meaning": "thời tiết",
+      "example": "我会认真学习“天气”。",
+      "examplePinyin": "Wǒ huì rènzhēn xuéxí \"tiānqì\".",
+      "exampleMeaning": "Ví dụ ghi nhớ: thời tiết",
+      "synonyms": [],
+      "audioText": "天气"
+    },
+    {
+      "hanzi": "听",
+      "pinyin": "tīng",
+      "meaning": "nghe",
+      "example": "我会认真学习“听”。",
+      "examplePinyin": "Wǒ huì rènzhēn xuéxí \"tīng\".",
+      "exampleMeaning": "Ví dụ ghi nhớ: nghe",
+      "synonyms": [],
+      "audioText": "听"
+    },
+    {
+      "hanzi": "同学",
+      "pinyin": "tóngxué",
+      "meaning": "bạn học",
+      "example": "我会认真学习“同学”。",
+      "examplePinyin": "Wǒ huì rènzhēn xuéxí \"tóngxué\".",
+      "exampleMeaning": "Ví dụ ghi nhớ: bạn học",
+      "synonyms": [],
+      "audioText": "同学"
+    },
+    {
+      "hanzi": "喂",
+      "pinyin": "wèi",
+      "meaning": "a lô",
+      "example": "我会认真学习“喂”。",
+      "examplePinyin": "Wǒ huì rènzhēn xuéxí \"wèi\".",
+      "exampleMeaning": "Ví dụ ghi nhớ: a lô",
+      "synonyms": [],
+      "audioText": "喂"
+    },
+    {
+      "hanzi": "我",
+      "pinyin": "wǒ",
+      "meaning": "tôi",
+      "example": "我会认真学习“我”。",
+      "examplePinyin": "Wǒ huì rènzhēn xuéxí \"wǒ\".",
+      "exampleMeaning": "Ví dụ ghi nhớ: tôi",
+      "synonyms": [],
+      "audioText": "我"
+    },
+    {
+      "hanzi": "我们",
+      "pinyin": "wǒmen",
+      "meaning": "chúng tôi",
+      "example": "我会认真学习“我们”。",
+      "examplePinyin": "Wǒ huì rènzhēn xuéxí \"wǒmen\".",
+      "exampleMeaning": "Ví dụ ghi nhớ: chúng tôi",
+      "synonyms": [],
+      "audioText": "我们"
+    },
+    {
+      "hanzi": "五",
+      "pinyin": "wǔ",
+      "meaning": "số 5",
+      "example": "我会认真学习“五”。",
+      "examplePinyin": "Wǒ huì rènzhēn xuéxí \"wǔ\".",
+      "exampleMeaning": "Ví dụ ghi nhớ: số 5",
+      "synonyms": [],
+      "audioText": "五"
+    },
+    {
+      "hanzi": "喜欢",
+      "pinyin": "xǐhuan",
+      "meaning": "thích",
+      "example": "我会认真学习“喜欢”。",
+      "examplePinyin": "Wǒ huì rènzhēn xuéxí \"xǐhuan\".",
+      "exampleMeaning": "Ví dụ ghi nhớ: thích",
+      "synonyms": [],
+      "audioText": "喜欢"
+    },
+    {
+      "hanzi": "下",
+      "pinyin": "xià",
+      "meaning": "dưới",
+      "example": "我会认真学习“下”。",
+      "examplePinyin": "Wǒ huì rènzhēn xuéxí \"xià\".",
+      "exampleMeaning": "Ví dụ ghi nhớ: dưới",
+      "synonyms": [],
+      "audioText": "下"
+    },
+    {
+      "hanzi": "下午",
+      "pinyin": "xiàwǔ",
+      "meaning": "buổi chiều",
+      "example": "我会认真学习“下午”。",
+      "examplePinyin": "Wǒ huì rènzhēn xuéxí \"xiàwǔ\".",
+      "exampleMeaning": "Ví dụ ghi nhớ: buổi chiều",
+      "synonyms": [],
+      "audioText": "下午"
+    },
+    {
+      "hanzi": "下雨",
+      "pinyin": "xiàyǔ",
+      "meaning": "mưa",
+      "example": "我会认真学习“下雨”。",
+      "examplePinyin": "Wǒ huì rènzhēn xuéxí \"xiàyǔ\".",
+      "exampleMeaning": "Ví dụ ghi nhớ: mưa",
+      "synonyms": [],
+      "audioText": "下雨"
+    },
+    {
+      "hanzi": "先生",
+      "pinyin": "xiānsheng",
+      "meaning": "ông, ngài",
+      "example": "我会认真学习“先生”。",
+      "examplePinyin": "Wǒ huì rènzhēn xuéxí \"xiānsheng\".",
+      "exampleMeaning": "Ví dụ ghi nhớ: ông, ngài",
+      "synonyms": [],
+      "audioText": "先生"
+    },
+    {
+      "hanzi": "现在",
+      "pinyin": "xiànzài",
+      "meaning": "bây giờ",
+      "example": "我会认真学习“现在”。",
+      "examplePinyin": "Wǒ huì rènzhēn xuéxí \"xiànzài\".",
+      "exampleMeaning": "Ví dụ ghi nhớ: bây giờ",
+      "synonyms": [],
+      "audioText": "现在"
+    },
+    {
+      "hanzi": "想",
+      "pinyin": "xiǎng",
+      "meaning": "muốn, nhớ",
+      "example": "我会认真学习“想”。",
+      "examplePinyin": "Wǒ huì rènzhēn xuéxí \"xiǎng\".",
+      "exampleMeaning": "Ví dụ ghi nhớ: muốn, nhớ",
+      "synonyms": [],
+      "audioText": "想"
+    },
+    {
+      "hanzi": "小",
+      "pinyin": "xiǎo",
+      "meaning": "nhỏ",
+      "example": "我会认真学习“小”。",
+      "examplePinyin": "Wǒ huì rènzhēn xuéxí \"xiǎo\".",
+      "exampleMeaning": "Ví dụ ghi nhớ: nhỏ",
+      "synonyms": [],
+      "audioText": "小"
+    },
+    {
+      "hanzi": "小姐",
+      "pinyin": "xiǎojiě",
+      "meaning": "cô, tiểu thư",
+      "example": "我会认真学习“小姐”。",
+      "examplePinyin": "Wǒ huì rènzhēn xuéxí \"xiǎojiě\".",
+      "exampleMeaning": "Ví dụ ghi nhớ: cô, tiểu thư",
+      "synonyms": [],
+      "audioText": "小姐"
+    },
+    {
+      "hanzi": "些",
+      "pinyin": "xiē",
+      "meaning": "một vài",
+      "example": "我会认真学习“些”。",
+      "examplePinyin": "Wǒ huì rènzhēn xuéxí \"xiē\".",
+      "exampleMeaning": "Ví dụ ghi nhớ: một vài",
+      "synonyms": [],
+      "audioText": "些"
+    },
+    {
+      "hanzi": "写",
+      "pinyin": "xiě",
+      "meaning": "viết",
+      "example": "我会认真学习“写”。",
+      "examplePinyin": "Wǒ huì rènzhēn xuéxí \"xiě\".",
+      "exampleMeaning": "Ví dụ ghi nhớ: viết",
+      "synonyms": [],
+      "audioText": "写"
+    },
+    {
+      "hanzi": "谢谢",
+      "pinyin": "xièxie",
+      "meaning": "cảm ơn",
+      "example": "我会认真学习“谢谢”。",
+      "examplePinyin": "Wǒ huì rènzhēn xuéxí \"xièxie\".",
+      "exampleMeaning": "Ví dụ ghi nhớ: cảm ơn",
+      "synonyms": [],
+      "audioText": "谢谢"
+    },
+    {
+      "hanzi": "星期",
+      "pinyin": "xīngqī",
+      "meaning": "tuần",
+      "example": "我会认真学习“星期”。",
+      "examplePinyin": "Wǒ huì rènzhēn xuéxí \"xīngqī\".",
+      "exampleMeaning": "Ví dụ ghi nhớ: tuần",
+      "synonyms": [],
+      "audioText": "星期"
+    },
+    {
+      "hanzi": "学生",
+      "pinyin": "xuésheng",
+      "meaning": "học sinh",
+      "example": "我会认真学习“学生”。",
+      "examplePinyin": "Wǒ huì rènzhēn xuéxí \"xuésheng\".",
+      "exampleMeaning": "Ví dụ ghi nhớ: học sinh",
+      "synonyms": [],
+      "audioText": "学生"
+    },
+    {
+      "hanzi": "学习",
+      "pinyin": "xuéxí",
+      "meaning": "học",
+      "example": "我会认真学习“学习”。",
+      "examplePinyin": "Wǒ huì rènzhēn xuéxí \"xuéxí\".",
+      "exampleMeaning": "Ví dụ ghi nhớ: học",
+      "synonyms": [],
+      "audioText": "学习"
+    },
+    {
+      "hanzi": "学校",
+      "pinyin": "xuéxiào",
+      "meaning": "trường học",
+      "example": "我会认真学习“学校”。",
+      "examplePinyin": "Wǒ huì rènzhēn xuéxí \"xuéxiào\".",
+      "exampleMeaning": "Ví dụ ghi nhớ: trường học",
+      "synonyms": [],
+      "audioText": "学校"
+    },
+    {
+      "hanzi": "一",
+      "pinyin": "yī",
+      "meaning": "số 1",
+      "example": "我会认真学习“一”。",
+      "examplePinyin": "Wǒ huì rènzhēn xuéxí \"yī\".",
+      "exampleMeaning": "Ví dụ ghi nhớ: số 1",
+      "synonyms": [],
+      "audioText": "一"
+    },
+    {
+      "hanzi": "衣服",
+      "pinyin": "yīfu",
+      "meaning": "quần áo",
+      "example": "我会认真学习“衣服”。",
+      "examplePinyin": "Wǒ huì rènzhēn xuéxí \"yīfu\".",
+      "exampleMeaning": "Ví dụ ghi nhớ: quần áo",
+      "synonyms": [],
+      "audioText": "衣服"
+    },
+    {
+      "hanzi": "医生",
+      "pinyin": "yīshēng",
+      "meaning": "bác sĩ",
+      "example": "我会认真学习“医生”。",
+      "examplePinyin": "Wǒ huì rènzhēn xuéxí \"yīshēng\".",
+      "exampleMeaning": "Ví dụ ghi nhớ: bác sĩ",
+      "synonyms": [],
+      "audioText": "医生"
+    },
+    {
+      "hanzi": "医院",
+      "pinyin": "yīyuàn",
+      "meaning": "bệnh viện",
+      "example": "我会认真学习“医院”。",
+      "examplePinyin": "Wǒ huì rènzhēn xuéxí \"yīyuàn\".",
+      "exampleMeaning": "Ví dụ ghi nhớ: bệnh viện",
+      "synonyms": [],
+      "audioText": "医院"
+    },
+    {
+      "hanzi": "椅子",
+      "pinyin": "yǐzi",
+      "meaning": "cái ghế",
+      "example": "我会认真学习“椅子”。",
+      "examplePinyin": "Wǒ huì rènzhēn xuéxí \"yǐzi\".",
+      "exampleMeaning": "Ví dụ ghi nhớ: cái ghế",
+      "synonyms": [],
+      "audioText": "椅子"
+    },
+    {
+      "hanzi": "有",
+      "pinyin": "yǒu",
+      "meaning": "có",
+      "example": "我会认真学习“有”。",
+      "examplePinyin": "Wǒ huì rènzhēn xuéxí \"yǒu\".",
+      "exampleMeaning": "Ví dụ ghi nhớ: có",
+      "synonyms": [],
+      "audioText": "有"
+    },
+    {
+      "hanzi": "月",
+      "pinyin": "yuè",
+      "meaning": "tháng",
+      "example": "我会认真学习“月”。",
+      "examplePinyin": "Wǒ huì rènzhēn xuéxí \"yuè\".",
+      "exampleMeaning": "Ví dụ ghi nhớ: tháng",
+      "synonyms": [],
+      "audioText": "月"
+    },
+    {
+      "hanzi": "再见",
+      "pinyin": "zàijiàn",
+      "meaning": "tạm biệt",
+      "example": "我会认真学习“再见”。",
+      "examplePinyin": "Wǒ huì rènzhēn xuéxí \"zàijiàn\".",
+      "exampleMeaning": "Ví dụ ghi nhớ: tạm biệt",
+      "synonyms": [],
+      "audioText": "再见"
+    },
+    {
+      "hanzi": "在",
+      "pinyin": "zài",
+      "meaning": "ở, đang",
+      "example": "我会认真学习“在”。",
+      "examplePinyin": "Wǒ huì rènzhēn xuéxí \"zài\".",
+      "exampleMeaning": "Ví dụ ghi nhớ: ở, đang",
+      "synonyms": [],
+      "audioText": "在"
+    },
+    {
+      "hanzi": "怎么",
+      "pinyin": "zěnme",
+      "meaning": "thế nào",
+      "example": "我会认真学习“怎么”。",
+      "examplePinyin": "Wǒ huì rènzhēn xuéxí \"zěnme\".",
+      "exampleMeaning": "Ví dụ ghi nhớ: thế nào",
+      "synonyms": [],
+      "audioText": "怎么"
+    },
+    {
+      "hanzi": "怎么样",
+      "pinyin": "zěnmeyàng",
+      "meaning": "ra sao",
+      "example": "我会认真学习“怎么样”。",
+      "examplePinyin": "Wǒ huì rènzhēn xuéxí \"zěnmeyàng\".",
+      "exampleMeaning": "Ví dụ ghi nhớ: ra sao",
+      "synonyms": [],
+      "audioText": "怎么样"
+    },
+    {
+      "hanzi": "这",
+      "pinyin": "zhè",
+      "meaning": "này",
+      "example": "我会认真学习“这”。",
+      "examplePinyin": "Wǒ huì rènzhēn xuéxí \"zhè\".",
+      "exampleMeaning": "Ví dụ ghi nhớ: này",
+      "synonyms": [],
+      "audioText": "这"
+    },
+    {
+      "hanzi": "中国",
+      "pinyin": "Zhōngguó",
+      "meaning": "Trung Quốc",
+      "example": "我会认真学习“中国”。",
+      "examplePinyin": "Wǒ huì rènzhēn xuéxí \"Zhōngguó\".",
+      "exampleMeaning": "Ví dụ ghi nhớ: Trung Quốc",
+      "synonyms": [],
+      "audioText": "中国"
+    },
+    {
+      "hanzi": "中午",
+      "pinyin": "zhōngwǔ",
+      "meaning": "buổi trưa",
+      "example": "我会认真学习“中午”。",
+      "examplePinyin": "Wǒ huì rènzhēn xuéxí \"zhōngwǔ\".",
+      "exampleMeaning": "Ví dụ ghi nhớ: buổi trưa",
+      "synonyms": [],
+      "audioText": "中午"
+    },
+    {
+      "hanzi": "住",
+      "pinyin": "zhù",
+      "meaning": "sống, ở",
+      "example": "我会认真学习“住”。",
+      "examplePinyin": "Wǒ huì rènzhēn xuéxí \"zhù\".",
+      "exampleMeaning": "Ví dụ ghi nhớ: sống, ở",
+      "synonyms": [],
+      "audioText": "住"
+    },
+    {
+      "hanzi": "桌子",
+      "pinyin": "zhuōzi",
+      "meaning": "cái bàn",
+      "example": "我会认真学习“桌子”。",
+      "examplePinyin": "Wǒ huì rènzhēn xuéxí \"zhuōzi\".",
+      "exampleMeaning": "Ví dụ ghi nhớ: cái bàn",
+      "synonyms": [],
+      "audioText": "桌子"
+    },
+    {
+      "hanzi": "字",
+      "pinyin": "zì",
+      "meaning": "chữ, ký tự",
+      "example": "我会认真学习“字”。",
+      "examplePinyin": "Wǒ huì rènzhēn xuéxí \"zì\".",
+      "exampleMeaning": "Ví dụ ghi nhớ: chữ, ký tự",
+      "synonyms": [],
+      "audioText": "字"
+    },
+    {
+      "hanzi": "昨天",
+      "pinyin": "zuótiān",
+      "meaning": "hôm qua",
+      "example": "我会认真学习“昨天”。",
+      "examplePinyin": "Wǒ huì rènzhēn xuéxí \"zuótiān\".",
+      "exampleMeaning": "Ví dụ ghi nhớ: hôm qua",
+      "synonyms": [],
+      "audioText": "昨天"
+    },
+    {
+      "hanzi": "坐",
+      "pinyin": "zuò",
+      "meaning": "ngồi",
+      "example": "我会认真学习“坐”。",
+      "examplePinyin": "Wǒ huì rènzhēn xuéxí \"zuò\".",
+      "exampleMeaning": "Ví dụ ghi nhớ: ngồi",
+      "synonyms": [],
+      "audioText": "坐"
+    },
+    {
+      "hanzi": "做",
+      "pinyin": "zuò",
+      "meaning": "làm",
+      "example": "我会认真学习“做”。",
+      "examplePinyin": "Wǒ huì rènzhēn xuéxí \"zuò\".",
+      "exampleMeaning": "Ví dụ ghi nhớ: làm",
+      "synonyms": [],
+      "audioText": "做"
+    }
+  ],
+  "reflection": [
+    {
+      "vi": "Xin chào",
+      "hanzi": "你好",
+      "pinyin": "Nǐ hǎo"
+    },
+    {
+      "vi": "Tôi là học sinh",
+      "hanzi": "我是学生",
+      "pinyin": "Wǒ shì xuésheng"
+    },
+    {
+      "vi": "Cảm ơn bạn",
+      "hanzi": "谢谢你",
+      "pinyin": "Xièxie nǐ"
+    },
+    {
+      "vi": "Ngày mai gặp lại",
+      "hanzi": "明天见",
+      "pinyin": "Míngtiān jiàn"
+    },
+    {
+      "vi": "yêu, thích",
+      "hanzi": "爱",
+      "pinyin": "ài"
+    },
+    {
+      "vi": "số 8",
+      "hanzi": "八",
+      "pinyin": "bā"
+    },
+    {
+      "vi": "bố",
+      "hanzi": "爸爸",
+      "pinyin": "bàba"
+    },
+    {
+      "vi": "cái cốc",
+      "hanzi": "杯子",
+      "pinyin": "bēizi"
+    },
+    {
+      "vi": "Bắc Kinh",
+      "hanzi": "北京",
+      "pinyin": "Běijīng"
+    },
+    {
+      "vi": "quyển, cuốn",
+      "hanzi": "本",
+      "pinyin": "běn"
+    }
+  ],
+  "dialogues": [
+    {
+      "title": "Chào hỏi ở lớp học",
+      "conversation": [
+        {
+          "speaker": "A",
+          "hanzi": "你好！你叫什么名字？",
+          "pinyin": "Nǐ hǎo! Nǐ jiào shénme míngzi?",
+          "meaning": "Xin chào! Bạn tên là gì?"
+        },
+        {
+          "speaker": "B",
+          "hanzi": "我叫安娜。你呢？",
+          "pinyin": "Wǒ jiào Ānnà. Nǐ ne?",
+          "meaning": "Tôi tên là Anna. Còn bạn?"
+        },
+        {
+          "speaker": "A",
+          "hanzi": "我叫明。很高兴认识你。",
+          "pinyin": "Wǒ jiào Míng. Hěn gāoxìng rènshi nǐ.",
+          "meaning": "Tôi tên Minh. Rất vui được gặp bạn."
+        },
+        {
+          "speaker": "B",
+          "hanzi": "我也很高兴。",
+          "pinyin": "Wǒ yě hěn gāoxìng.",
+          "meaning": "Tôi cũng rất vui."
+        }
+      ]
+    },
+    {
+      "title": "Mua nước ở cửa hàng",
+      "conversation": [
+        {
+          "speaker": "A",
+          "hanzi": "请问，这瓶水多少钱？",
+          "pinyin": "Qǐngwèn, zhè píng shuǐ duōshao qián?",
+          "meaning": "Xin hỏi, chai nước này bao nhiêu tiền?"
+        },
+        {
+          "speaker": "B",
+          "hanzi": "三块钱。",
+          "pinyin": "Sān kuài qián.",
+          "meaning": "Ba tệ."
+        },
+        {
+          "speaker": "A",
+          "hanzi": "好，我买一瓶。",
+          "pinyin": "Hǎo, wǒ mǎi yì píng.",
+          "meaning": "Được, tôi mua một chai."
+        },
+        {
+          "speaker": "B",
+          "hanzi": "谢谢！",
+          "pinyin": "Xièxie!",
+          "meaning": "Cảm ơn!"
+        }
+      ]
+    }
+  ],
+  "exercises": [
+    {
+      "question": "Chọn nghĩa đúng của “爱”",
+      "options": [
+        "gọi điện thoại",
+        "yêu, thích",
+        "taxi",
+        "ăn"
+      ],
+      "answer": "yêu, thích"
+    },
+    {
+      "question": "Chọn nghĩa đúng của “八”",
+      "options": [
+        "ăn",
+        "taxi",
+        "gọi điện thoại",
+        "số 8"
+      ],
+      "answer": "số 8"
+    },
+    {
+      "question": "Chọn nghĩa đúng của “爸爸”",
+      "options": [
+        "gọi điện thoại",
+        "bố",
+        "taxi",
+        "ăn"
+      ],
+      "answer": "bố"
+    },
+    {
+      "question": "Chọn nghĩa đúng của “杯子”",
+      "options": [
+        "taxi",
+        "cái cốc",
+        "gọi điện thoại",
+        "ăn"
+      ],
+      "answer": "cái cốc"
+    },
+    {
+      "question": "Chọn nghĩa đúng của “北京”",
+      "options": [
+        "Bắc Kinh",
+        "ăn",
+        "gọi điện thoại",
+        "taxi"
+      ],
+      "answer": "Bắc Kinh"
+    },
+    {
+      "question": "Chọn nghĩa đúng của “本”",
+      "options": [
+        "gọi điện thoại",
+        "taxi",
+        "ăn",
+        "quyển, cuốn"
+      ],
+      "answer": "quyển, cuốn"
+    },
+    {
+      "question": "Chọn nghĩa đúng của “不客气”",
+      "options": [
+        "gọi điện thoại",
+        "ăn",
+        "không có gì",
+        "taxi"
+      ],
+      "answer": "không có gì"
+    },
+    {
+      "question": "Chọn nghĩa đúng của “不”",
+      "options": [
+        "không",
+        "taxi",
+        "gọi điện thoại",
+        "ăn"
+      ],
+      "answer": "không"
+    },
+    {
+      "question": "Chọn nghĩa đúng của “菜”",
+      "options": [
+        "món ăn, rau",
+        "ăn",
+        "taxi",
+        "gọi điện thoại"
+      ],
+      "answer": "món ăn, rau"
+    },
+    {
+      "question": "Chọn nghĩa đúng của “茶”",
+      "options": [
+        "gọi điện thoại",
+        "taxi",
+        "ăn",
+        "trà"
+      ],
+      "answer": "trà"
+    },
+    {
+      "question": "Điền vào chỗ trống: 我___学生。",
+      "options": [
+        "很",
+        "是",
+        "不",
+        "呢"
+      ],
+      "answer": "是"
+    },
+    {
+      "question": "Chọn nghĩa đúng của “爱”",
+      "options": [
+        "bố",
+        "cái cốc",
+        "yêu, thích",
+        "số 8"
+      ],
+      "answer": "yêu, thích"
+    }
+  ]
+}
